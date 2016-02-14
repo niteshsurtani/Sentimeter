@@ -35,4 +35,7 @@ for k, data in all_reviews.iteritems():
 
 	count = count + 1
 
-print alchemy_point, aylien_point, textalytics_point
+# print alchemy_point, aylien_point, textalytics_point
+print "ALCHEMY Accuracy = " + str(alchemy_point * 1.0/total)
+print "AYLIEN Accuracy = " + str(aylien_point * 1.0/total)
+print "TEXTALYTICS Accuracy = " + str(textalytics_point * 1.0/total)
