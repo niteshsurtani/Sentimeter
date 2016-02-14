@@ -1,0 +1,12 @@
+USAGE
+
+1. Extract reviews from Flipkart :: review_crawler_flipkart.py
+This script fetches the defined no. of reviews for a flipkart product starting from page 1 to page N (each review page in flipkart consists of 10 reviews).
+The script stores 3 components for each review: (i) Title; (ii) Complete text; (iii) Rating given by user.
+
+2. Find the sentiment of each review using various Sentiment APIs :: process_reviews.py
+This script runs sentiment analyzer of AlchemyAPI, AYLIEN and Textalytics API on each review and stores the result
+as POSITIVE or NEGATIVE.
+
+3. Benchmark the results of each API: benchmark.py
+This script compares the results of each API and outputs the accuracy.

@@ -1,0 +1,3430 @@
+(dp1
+I1
+(dp2
+S'rating'
+p3
+S'5'
+sS'title'
+p4
+S'Best Phone Under 13K BUT READ THIS FIRST'
+p5
+sS'text'
+p6
+VGot this phone on the Next day I ordered. Thanks to Flipkart First Subscription!  \u000aI will refrain myself from writing long stories and telling the things you can simply see in the product description. I will simply write down my thoughts on the parameters which matters most. Lets come to Phone now:  \u000a1. Build Quality: 4.5/5 Back panel is scratch proof with matte finish. Cutting 0.5 star because chrome is of Plastic, not metallic.\u000a2. 2 GB of High Frequency RAM and awesome RAM management: 5/5\u000a3. Perfect Screen size. Larger screen could have decreased battery backup. 5/5\u000a4. Resolution is perfect for the price range and PPI makes it much better. 5/5\u000a5. Battery life is too good. Even though it is having only 2470 mAH battery, with 100% charge, I downloaded about 40 apps on 4G, used whatsapp, gaming of 1 Hour, used calling, SMS and other common features throughout the day (12 hours) and the battery was still 5%: 5/5\u000a6. Camera quality is good (not awesome) in indoors and AWESOME in outdoors with sunlight. They gave Slow motion video feature as in Iphone that is more than awesomeeeeee: 4/5\u000a7. Headphones given are of above average quality but at least they are giving it other wise Zenphone 2 and Honor 4x don't have headphones. 3/5\u000a8. The phone comes up with dual speakers BUT only one speaker is functional at a time. The phone do not have convertible speakers like we have in Moto nexus 6. Top speaker is just for headset mode and bottom speaker is for playing Media. But still, the sound quality is good & loud (very loud). It should have provided two normal speakers for media instead of one loud speaker because multiple speakers creates surround sound. 4/5\u000a9. Water resistant phone, I splashed a glass of water but It is working..!!!! Just remember to close the back lid as mentioned in the sticker. \u000a10. Original Flip Cover AVAILABLE!!! You cannot use duplicate flip cover (one that replaces original back lid) because your phone will no longer be water proof.\u000a11. You can connect 2 USB cables with charging adapter. It means you can charge two phones simultaneously. THATS AMAZING!!!! However, the adapter is of 1150 mAh, means it will take atleast 2.5 hours for full charge. 4/5 \u000a12. Just like apple, motorola has learnt how to provide flawless performance with low-medium specs (Just like iphone's top model has 1GB RAM only). The phone do not have super high speed processor, but the processing management is so awesome that there are NO LAGS even with using multiple applications simultaneously. 5/5\u000a13. Good screen to body ratio with minimum wastage. Like HTC phones waste too much space below and above the screen and make phones unnecessarily larger. This phone utilizes the maximum area and keeps phone pocket sized.  \u000aNOTE: The phone comes with free airtel 4G SIM but there are no instructions on flipkart on how to use it. Don't worry, you don't have to rush to Airtel Store to use it. Simply type: SIM SPACE NEW_SIM_NUMBER from your airtel mobile number and send it to 121. The new SIM will be activated within 10 minutes. However, some of my friends got expired SIM. In such case, it shows that SIM number is incorrect. You can get SIM number from back side of the sim. I inserted Airtel 4G SIM in slot 1 of this phone and got AMAZING speed of 28 Mbps :D  \u000aALSO I bought original MOTO Flip cover worth Rs. 1799 with this phone and got Rs. 549 OFF. :D To verify if the offer still exist, Add this phone and original Moto Flip Cover to your cart. If your luck is good, you'll see Rs. 549 off there.  \u000aWARNING: DO NOT PLAY WITH WATER RESISTANCE FEATURE. IT IS JUST TO KEEP YOUR PHONE SAFE IN CASE OF ACCIDENTS. PROLONGED IMMERSION IN WATER OR USAGE OF SPEAKERS WHILE DIPPED IN WATER MAY CAUSE DAMAGE.  \u000aOverall, I would rate it 4.5/5 stars. Its a great deal for this price range. If your budget is 13K, just order this phone without thinking much. Hit like button if you found my review useful ;)
+p7
+sS'aylien'
+p8
+Vnegative
+p9
+sS'textalytics'
+p10
+S'positive'
+p11
+sS'alchemyapi'
+p12
+Vpositive
+p13
+ssI2
+(dp14
+g3
+S'4'
+sg4
+S'Moto G3- My honest review'
+p15
+sg6
+VI have been using this phone for more than a MONTH now and i would like to say that i am quite satisfied with the product as of now.Let me break it down in terms of pros and cons for you guys- \u000aPros- \u000a1. Design:- The phone is classy and looks quite stylish in looking and gives a very good in hand feel when you're using it. \u000a2. Camera:- The camera on this moto g3 is great.I mean one can capture really good photos with it, be it front or back.This is the case when you are in good or medium lightning conditions,so if you're clicking pictures in dark or low lighting the picture quality is only mediocre(Rear&Front) and looks a little bit artificial(Front Cam).But i suppose that's the case with every other smartphone in this price range. \u000a3.Battery:-Battery is a major concern now -a-days and also the previous model of this phone i.e the moto g2 had battery issues.But this phone can give you a really good battery backup.It can easily last you a day even with heavy usage if you give it a full charge in the morning.It takes 2:45 minutes to charge from 0 to 100 with first 85% charged in just 2 hours.I am getting approx 5 hours of screen on time(2 sims,1 sim being 3g and the other 2g with mobile data on) and approx 7.5 hours of screen on time if the mobile data is off.So i think it's great.Isn't it? \u000a4.Performance:- Performance is absolutely smooth.No hanging issues.Working without flaws(Asphalt 8, fifa15,dead trigger 2,Leo's fortune and many more games resides on my storage ^_^ ).Handling all without any problems \u000a5.RAM:- As you know you're getting 2 Gigabytes of RAM on this device and i must say ram is way more than enough for a user.I have around 82 apps installed on this phone including the built-in-apps and still there is 700-800 mb free space in RAM all the time.So it's fckin' cool guys! :) \u000a6.Storage:- You're getting around 11 Gb free for user out of 16 gb internal storage.Besides that,one can expand it through sd card for upto 32 Gb! \u000aCons- \u000a1. Display- The first & d formost con that i noticed in this device was the display.It really annoyed me at first coz sometimes white looks a lil bit yellowish and color production isn't accurate as it should be.So if you're not so concerned about colors,just ignore it.You myt also not notice it in the day to day usage.So not a big issue,atleast for me! \u000a2. Heating issues:- Wasn't really an issue if you have asked me about the phone a week ago.Don't get me wrong,in normal usage you won't feel any heating problem on this device but when i play asphalt 8 for a long time,the screen panel do heats a little.Also,sometimes i have noticed that it gets warm while charging.So in case if it creates a problem for any of you,i mentioned it here. \u000a#Would update my review as soon as i feel any change in its performance and usage.\u000a#Give my review a thumbs up if it 's helped you in any manner.
+p16
+sg8
+Vnegative
+p17
+sg10
+S'negative'
+p18
+sg12
+Vpositive
+p19
+ssI3
+(dp20
+g3
+S'1'
+sg4
+S'Lost trust on Flipkart'
+p21
+sg6
+VI had asked for replacement of the Moto G 3rd gen because of some manufacturing defect. Its been more than 2 weeks that flipkart hasn't updated me about the same though my returned product has been reached more than 2 weeks ago. I have been calling everyday for the update. None of the representative is able to give me any update about the same. Its my first time I'm experiencing such a bad customer care support from Flipkart. The product had boasted about 'WS Retail- Advantage' (irony)! Its so unfortunate and frustrating to see flipkart's service deteriorating like this. Flipkart, if you don't want to give replacement of the product, please give me refund (into bank account and not wallet) of my hard earned money, if you still have any respect for your customer's money and time.
+p22
+sg8
+Vnegative
+p23
+sg10
+g18
+sg12
+Vnegative
+p24
+ssI4
+(dp25
+g3
+S'5'
+sg4
+S'Awesome Phone. Go for it'
+p26
+sg6
+VGot this phone yesterday. First of all hats off to Flipkart for awesome delivery time. \u000aNow coming to the phone:\u000a1. Build Quality: 5/5\u000a2. 2 GB of RAM with no bolt ware, and awesome RAM management: 5/5\u000a3. Screen size could have been bigger as we are getting 5.5 inch screen on Honor 4x: 4/5\u000a4. Resolution is perfect for the price range and PPI makes it much better. 5/5\u000a5. Battery life is too good.Even though it is having only 2470 mAH battery, with 30% charge, I downloaded about 30 apps on WIFI, used whatsapp on 4g and little bit of gaming, used torch and over all used phone for 4 hours but when got up in the morning battery was still at 10%: 5/5\u000a6. Camera quality is good and they gave Slow motion video feature as in Iphone that is more than awesomeeeeee: 5/5\u000a7. Headphones given are of average quality but at least they are giving it other wise Zenphone 2 and Honor 4x don't have headphones. 2/5\u000a8. Sound quality in music player is good, try with some sony Headphone: 5/5  \u000aFinally WATER RESISTANCE phone, I already gave it a dip in a bucket of water :D and guess what. It is working..!!!! Just remember to close the back lid as mentioned in the sticker. \u000aAnd in the end I would says, haters will keep hating it and give bad review. Don't listen to them. \u000aAbove review is after using for 10 hours. \u000aAdding Some more points after using for about more than 24 hours\u000a+No Lags, can handle and switch between upto 12 apps without issues\u000a+No heating Issue\u000a+Battery Life is awesome (after a full charge and using for 5 hours with browsing on Wifi, downloading apps and few clicks with cam and 3 slow motion video and whatsapp, battery is still at 80%)\u000a+Loved the on screen notification \u000aSo will recommend you to go for it. No need to give a second thought.
+p27
+sg8
+Vnegative
+p28
+sg10
+g11
+sg12
+Vpositive
+p29
+ssI5
+(dp30
+g3
+S'4'
+sg4
+S'A study in contrast: Moto G vs Mi 4i'
+p31
+sg6
+VI was initially unsure about which phone to choose between the Mi 4i and the Moto G, but then I got the opportunity to use both so here's a review based on the comparison. My review is based on average usage pattern of a couple of calls, a lot of texts, Hike/WhatsApp/FB messages, some browsing, a little (not very graphic intensive) gaming, watching videos on YouTube and on the phone, single SIM usage, and 60-70% time on Wi-Fi. These are my conclusions: \u000a1. Performances: Day to day performance is fast, zippy and completely lag-free on both. I found the Moto to be slightly snappier (with 18 apps running!) when compared to the Mi 4i (with 6 apps running), but the difference might be too minor to notice in day-to-day performances for most users. \u000a2. Heating Issues: The Moto heats up a little when charging, but apart from that it is completely free from heating of any kind. Unlike other reviewers, I'll have to laud Xiaomi's efforts with the Mi 4i though: the new upgrades have reduced the heating levels to a bare minimum, and now it only warms up a little with heavy use. \u000a3. Battery: The battery on the Moto G can last easily over a day, but it would be wrong to expect more of the 2470mAh battery. However, with the same usage pattern, the Mi 4i's battery easily lasts 2 days for me.\u000a4. Display: The screen is where it really lags: pixels are very much visible and you'll be rather disappointed if you're viewing it from a 6-10in distance. There's also a yellow-ish tint. In comparison, the Mi 4i's screen is way nicer. However, brightness, sunlight legibility and viewing angles are exceptionally good on both devices.\u000a5. Camera: The camera on the Moto G is disappointing if you think it's a 13MP/5MP shooter, esp. if you're coming from the Mi 4i's superior performance. It's fast and has a minimal interface, while the the Mi 4i provides far more options in terms of filters, etc. Video quality on the Moto is better than on the Xiaomi in my experience. \u000a6. Storage: Device storage is where the Moto G beats the Mi 4i hands down. I had no problem storing and accessing my entire season of FRIENDS on the Moto, something I wouldn't dream of on the Mi 4i. You get 5GB on the Mi Cloud on the Xiaomi, while you get Google backup on the Moto so cloud storage probably isn't something you need to worry about. Both devices have USB-OTG though, and it works just fine on both. \u000a7. User interface: \u000a- Vanilla Android on the Moto with it's superior bloat-free feel is amazing, particularly after TouchWiz! Though both devices have the same amount of RAM, the Mi 4i's bloatware eats into the RAM and leaves only about 900MB RAM with NO active applications. This might explain why the Moto feels smoother despite the lower core-config. \u000a- I personally prefer the comfort of an app drawer as well as folders: something which only the Moto G offers. Even Nova Launcher keeps crashing on the Mi 4i, which is a negative for someone who might want to customize the UI. Both the Lenovo K3 Note and the Mi 4i lack the app drawer I've come to love, offering only folders and buttons in an Apple-esque fashion. However, others prefer the latter kind so it's really upto you. \u000a- If you care about the quick-access buttons on the notification tray, the Moto G might be a bit of a shocker for you. For instance, there's no "Silent" button or dedicated "Mobile Internet" button. Switching on/off the mobile data is a two-step process which should have been a one-step process, and that's kinda annoying for me. The Xiaomi's configuration in this department - only in this, mind you - like most phones, is pretty standard: hence it's probably a little easier to use. \u000a9. Assisting features: Moto additions to stock Android are actually useful, such as the active display. However, the mi 4i offers notification lights even if not the active display. Overall, I find the active display on the Moto to be more useful than the light - but then, if you're used to the notification lights, you might be missing that on the Moto. \u000a10. Telephony: Both phones offer superior calling facilities and there's no call drop. The active noise cancellation works really well on both devices. \u000a11. Build Quality: Both phones have solid build quality, but the Moto G feels much nicer and sturdier in my hand than the Mi 4i. Moto's heavier and bigger, which means I'm afraid of dropping it half the time. I'm guessing guys won't have this problem, but for us girls, the Mi 4i is definitely much easier to hold. The Gorilla glass IPx7 rating, however, makes me feel safer using the Moto. The Mi 4i has survived 2 drops in as many months so far, though.\u000a12. Speakers: Despite the single speaker on the Moto, it's extremely loud and clear in terms of the sound quality! Listening to music is a pleasure, particularly vocals. The Mi 4i is slightly less loud in my experience, and the speakers (located on the back) tend to get muffled if you keep it on a desk or pillow: but this might be subjective.
+p32
+sg8
+Vnegative
+p33
+sg10
+S'neutral'
+p34
+sg12
+Vpositive
+p35
+ssI6
+(dp36
+g3
+S'5'
+sg4
+S'awesomeeee....'
+p37
+sg6
+Vi had already use moto g , moto e and moto e2 , but this is CLASS .  \u000atalking about pros\u000a1- phone has got good body and its back panel gives you a holding grip ...\u000a2- next is its battery ..battery backup is superbbbb.... \u000a3- beacuse of 2 gb ram phone is superfast unlike samsung phone keep on hanging . \u000a4-on display moto has worked this time \u000a5- yess camera is what i was waiting for .. camera quality is superb ...i took the photos use the dual flash .. but the best part is the front camera .. awesome selfies...\u000a6- processor is good and i think lag problem with big heavy games willl end \u000aonly 1 con i found is there is a little extra space given apart from screen which makes phone a lilttle bigger.. \u000adear moto please dont bring new phone so early . i dont have so much money :P . i will keep it atleast for 2 years as have keep moto g for 1.5 years and yes thanx flipkart for making it deliver in 1 day without paying extra delivery charges..
+p38
+sg8
+Vnegative
+p39
+sg10
+g11
+sg12
+Vpositive
+p40
+ssI7
+(dp41
+g3
+S'1'
+sg4
+S'Received faulty device MOTO G 3rd Generation 16 GB'
+p42
+sg6
+Vi am the lucky one . i have ordered MotoG 3 rd generation 16 GB\u000ai received the faulty device. Its not charging more than 50 - 55 % in two days.\u000ai have requested for replacement but i have not getting positive intituions because now they are follwing some long proceedures for device replacement. \u000ai will update status everyday till the time i will not get solution.\u000ai dont need any repair on this device i need replacement because i have paid for new and fault free device. and the trouble which i am facing that is free of cost.
+p43
+sg8
+Vnegative
+p44
+sg10
+g34
+sg12
+Vnegative
+p45
+ssI8
+(dp46
+g3
+S'5'
+sg4
+S'Moto G3 - My honest opinion'
+p47
+sg6
+VHello everyone,\u000aFirst of all I would like to say that I don't normally waste my time writing a review, in fact this is technically not a review but my honest opinion about the phone. I am going to refrain from praising flipkart (Oops!) in this, and I will simply write down my thoughts on the parameters which matter to me as follows (Pros or Cons you decide!):\u000a1. The phone is a 5", which is a perfect fit for my pocket (Always hated my HTC 826 for its size among other things.)\u000a2. The phone has a hardy and rugged look and I feel it is a good companion for my daily use. Gorilla glass and water proof coating is the icing on the cake.\u000a3. I listen to a lot of music and read books/news and browse on my phone and often find my phone running out of juice easily. This phone despite having a 2470mAh battery, lasted my torments quite long and still it is at 55%. Now that's one adamant little thing.\u000a4. I don't really miss the lack of notification LED, in fact it's better this way. I always found that flashing light annoying.Moto display is good enough for me.\u000a5. Lack of bloatware and forced installed factory apps unlike Asus Zenfone, HTC (dammit ZOE!) makes it even more sexier. The phone's UI feels smooth and fast due to stock Android.\u000a6. Last but not the least, I need at least one 4G connection for my data usage. The other one for calling. The purpose is served, so I am happy.\u000aSo those are my views based on my requirement. Hope someone will find it useful in making an informed decision.\u000aRegards\u000aPritam
+p48
+sg8
+Vnegative
+p49
+sg10
+g18
+sg12
+Vpositive
+p50
+ssI9
+(dp51
+g3
+S'5'
+sg4
+S'True Review For True Buyers'
+p52
+sg6
+Vhi frnds , firstly filpkart's in a day service is awesome. \u000anow come to the review \u000aNo doubt this is the best phone in its range and also upto 15k, let me prove u why  \u000a1. all the phones till 15-17k. u will find that they may have Snapdragon's 410 , but they all are 1.2MHz and MOTO G3 has 1.4GHz \u000a2. doesn't matter that other phones also have 2gb ram , the question is that , Is the UI of the phone so light that the phone can run smoothly with 2gb ram? \u000aand the answer is in front of u MOTO G3 has stock android which is so light \u000a3. if u are in the mood to buy a good phone u probably comparing b/w Lenovo A6000 plus , lenovo K3 note , redmi note 4g , MI4I , samsung j5 , samsung j7 and MOTO G3 . \u000anow all these phones have their own UI that means U CAN'T FEEL THE EXPERIENCE OF ORIGINAL ANDROID \u000anext ,  \u000alenovo and Mi having a big problem that they are getting hang as because their UI is heavy , which shows effects on ram ,that A LARGE AMOUNT OF RAM IS GETTING USED ON THESE PHONES  \u000aand now talk about samsung J5&J7 these are rejected by me because of the name samsung with them as samsung phones will shows their realities after 6 months i hope u are agree with me ,  \u000anow that's why I had chosen MOTO  \u000anow for those who are having complaints about moto g3 \u000a1. Camera:- for those who are having issues with camera , actually the camera is good but it just need a software update of camera application , no issues in the h/w \u000a2. display:- i know that motorola should give a 1080 display but they made an intelligent decision by increasing battery capacity , \u000aif they put full hd display in this phone and same battery then everyone will complaint about battery drainage . \u000aso i think display is right at its place. \u000afinally , I don't find any cons in this phone specifically the looks and feel , when u take this phone in your hand it proves its durability and the look which is so stylish .\u000anot like the lenovo ,mi and other rectangle bars . \u000ai made a right decision by choosing this among all , now its your turn my frnd
+p53
+sg8
+Vnegative
+p54
+sg10
+g11
+sg12
+Vpositive
+p55
+ssI10
+(dp56
+g3
+S'5'
+sg4
+S'AWESOMEST phone you can get in this price range!!'
+p57
+sg6
+VHi all !! Greetings for the day... \u000aI had to get a phone within budget of 10k- 15k. First was confused between many options like Lenovo k3 note, Samsung J7, MI, etc. Then this phone was launched, was so impressed by its features and specifications that I ordered for it, taking a chance. Got my MOTO G 3rd GEN phone on time and it was a good delivery by FLIPKART as usual ... After extensively using the phone Iam giving my reviews in order to help other guys thnking of purchasing this phone.  \u000aDisplay : 4.5/5 (Cool display and is equally good to veiw it from extreme angles)\u000aCamera : 4.5/5 (Super awsm camera for this price range, and quick capture feature is also awsm. Selfies in low light also came out pretty well and good.)\u000aCall quality : 5/5 (Clear, crisp and good call quality)\u000aBuild Quality : 5/5 (Amazing build quality, fits in ur hand and light weight as compared to other mobiles in this range)\u000aUI: 5/5 (feathery smooth)\u000aBattery Life: 4.5/5 (After fully charging the battery, used the phone to extreme extent but still it had some power left till the end of the day. Thus it would last for a day fairly, if fully charged) \u000aWater proof: (Yes it is water proof, tested by placing it in water for some time, stil aftr taking it out, working fantasticly)\u000aScreen : Thanks to gorilla glass, kept my phone in pocket with othr stuf, evn dropped it into bag full of stuff like keys, charger, compass, etc, but just wipe the screen and it seems as new evrytym. U wont need a flip cover for this. \u000aCons: Some of the settings are missing, but yet a smooth user interface makes up for all that :)  \u000aGo ahead folks, don't miss this cute thing..in such a good price.. MUST BUY !!
+p58
+sg8
+Vnegative
+p59
+sg10
+g11
+sg12
+Vpositive
+p60
+ssI11
+(dp61
+g3
+S'5'
+sg4
+S'MOTO G3 (A must buy )'
+p62
+sg6
+VThis is my first Motorola device,I got my phone yesterday, but I'm already in love with my Moto G (3rd GEN).  \u000aIt gives smooth experience like butter. Now let me tell you... what you mostly like in the device & what you may don't like also,  \u000aUpdated Ratings>(After using it a month)  \u000aDisplay :: 4/5(Color reproduction not good in some aspects) \u000aBuild Quality :: 5/5 (Really good) \u000aSound :: 4/5 (No Stereo speakers but its loud and clear ) \u000aBattery :: 4/5 (Last a day for normal usage and 10-15hrs for heavy usage) \u000aCall Quality :: 4.5/5 (No call drop nothing but call recording option not available) \u000aHeating Issue :: 3/5 (Only a bit of screen heating issue after continuous usage,where as most of the phones heats a lot every time...So, it heats up but not a major issue) \u000aCamera :: 3.5/5(Low light pictures not good) \u000aGaming :: 3/5 (Not suitable for high end games but can play most of the games smoothly) \u000aAndroid Experience :: 4.5/5 (Stock Android)  \u000a1st Impression >>\u000a______________ \u000aPros ::\u000a1)Butter smooth experience as vanilla OS & 2GB RAM(No lags & no heating).\u000aalways a lot of memory available to use, super memory management \u000a2)Slow motion video (awesome one). \u000a3)Moto display(Its much better than LED notifications) \u000a4)Super Battery backup(after full charge used Wifi,music & others thing for continuous 5 hours & after that it's showing 70% available) \u000a5)Clear audio output through load speaker & superb audio output through headphone(have Sennheiser headphone) \u000a6)Camera looks good for me..both rear & front camera provide good sharp images. \u000a7)Except this, awesome build quality & 5 inch screen is good to hold(also fits good in pocket).  \u000aCons ::\u000a1)Headphone provided with the set is not good. \u000a2) Non-removable battery. \u000a3)There is no single click mobile data On/Off, u need to through the settings to turn on/off data network.  \u000aP.S. So you can see that not much Cons you get from this device..! :D  \u000aI will recommend all to get this phone if you love to get software updates,smooth android experience & who don't go with the specifications only but want a good long lasting phone as this Motorola is optimized fully between H/w & S/w which you don't get to know without using this. Go buy it...!! :)
+p63
+sg8
+Vpositive
+p64
+sg10
+g11
+sg12
+Vpositive
+p65
+ssI12
+(dp66
+g3
+S'1'
+sg4
+S'Touch screen has an issue.'
+p67
+sg6
+VTouch screen has an issue. I does not recognize touch sometimes specially while swiping open App on right side in order to delete.\u000aI informed customer support. They remotely tested it with there own software.  \u000aI have an issue here why can't they consider my problem and replace upfront?\u000aI can record video and upload it on youtube as well.\u000aFlip kart after sale service is not cool any more.\u000aI am now no more a fan of Moto G. I have used all the 3 generations. This is the first time Filpkart Technical support is creating trouble. \u000aDon't fall in Trap with Flipkart Advantage.
+p68
+sg8
+Vnegative
+p69
+sg10
+g11
+sg12
+Vnegative
+p70
+ssI13
+(dp71
+g3
+S'5'
+sg4
+S'LENOVO K3 / MI4I / ASUS ZENFONE 2 /MOTO G3 Or to Wait for SAMSUNG J5 : Confused ?? Read this and Trust me ;)'
+p72
+sg6
+VLets review this and clear your confusion : \u000a*LENOVO K3 - Batttery drains faster if you wanna make/receive much calls on this device plus it is 5.5inch which is much larger as a pocket friendly. \u000a*MI4I - As a fact, heating problem is a inbuilt backlog of MI4I Plus Sound Quality is 3rd grade and Pendrive doesnt work properly in this cell.  \u000a*ASUS ZENFONE 2 - Heating problem, You cannot use internet on 2nd sim slot; its purely a call base sim slot , Network issues, Take very long time to charge , Not recommendable even if you are getting for free of cost  \u000a*Samsung J5 - If you go buy specifications ; it is having 1.5 GB RAM, 8 GB ROM and 1.2 ghz clock speed which will make difficult for you to do smooth multi-tasking and as its clock speed is only 1.2 ghz it will definetely hang during loading of heavy applications.  \u000a ** What makes MOTO G3 an unique recommendable phone..????? ** \u000a(Note - The above mentioned backlogs of the mentioned cellphones are not there in MOTO G3) \u000a1) Awesome design, sexy HD display with 294 ppi (pixel per index) which makes the cell to look more advance (Design 10/10) \u000a2) Superb battery life with zero heating issues. (Battery 9/10) \u000a3) Mindblowing front camera even in low light and awesome rear camera because with Dual smart flash it makes the pic more realistic (Camera 10/10) \u000a4) Smooth performance even if you use 20 applications at a time or you are playing Large size games as it is builgt with 2 gb RAM (performance 10/10) \u000a5) Efficiency is good as there is no issue of hanging because its Quad core processor is provided with 1.4ghz clock speed (Efficiency 9/10) \u000a6) Best phone if you wanna use internet with less battery drain ( 10/10) \u000a7) Water resistance upto 3 feet and 29.30 minutes having 1px7 rating but Make sure your original back lid (which was attach with the device) is fitted  \u000a8)Nic phone to watch HD Videos and movies coz it has good viewing angles with smart light (10/10) \u000a9)Sound output is quite decent with one speaker which is more clear than MOTO G2 having 2 speaker output but if you wanna listen in handsfree mode than purchase some good headsets of Skull candy or Sony as its accessoried handsfree are not impressing (8/10) \u000a10) It has got 3 great advantages.\u000aa) It will activate Flash light in lock mode if you shake it from left to right fastly\u000ab) It will activate and change camera mode if you twist it fastly \u000ac) Its charger got 2 output so you can charge 2 cell phones with one charger with guarenteed safe operation and Its charger output is 1100 mA So your MOTO G3 will complete charge in 2.2 hrs.  \u000a**** GO For MOTO G (3rd generation) **** \u000aI had purchased 8 different cell phones in 2 yrs so i have much deep knowledge & can strongly recommend MOTO G3 to buy. #BeSmart #Go4It (y)  \u000a#innocentmitesh
+p73
+sg8
+Vnegative
+p74
+sg10
+g34
+sg12
+Vpositive
+p75
+ssI14
+(dp76
+g3
+S'2'
+sg4
+S'Great Phone. Pathetic Motorola After Sales Service.'
+p77
+sg6
+VDropped my Moto G 3rd Generation on the road just after 3 days of using it. The screen got broken. Totally my fault.  \u000aEstimated repair cost: Rs 4,500 \u000aYour after-sales service is a joke. After reading many other instances of delays o their website and social media pages, I'm sure that mine is not a one-off incident! \u000aSeems like only yesterday, but a month has gone by and my phone (Moto G 3rd Gen) is still at the service centre. The service part is still unavailable after more than three weeks of "ESCALATION PROCESS". How is it that Motorola sells thousands of Moto G handsets in India BUT the service centers are given no support regarding any parts? \u000aJob No: AMSNOI001683 \u000aComplaint Ref No: 150823-013357 \u000aIf I wanted a shabby after sales service I would have bought a local/cheap company phone. Even they don't have such long turnaround times. Won't buy a Motorola ever again nor would I recommend it to anyone else. \u000aMediocre camera lens and pathetic after sales support/service. When you're selling such a hugely popular product, at least have the service centers well equipped to solve any issues with it!
+p78
+sg8
+Vnegative
+p79
+sg10
+g18
+sg12
+Vnegative
+p80
+ssI15
+(dp81
+g3
+S'5'
+sg4
+S'Lenevo K3 Note or Xiomi mi4i or motoG3 (for those who confused)'
+p82
+sg6
+VIf you have confused among the 3, then I suggest motog3 because, \u000aK3 note is having more processing power but I didn't feel any lag in moto g3 (thanks for the Motorola engineering) Moto g3 is water proof and OTG compactible. \u000aMi4i is best known for its heating problems. \u000aOne thing you remember, Motorola never releases a phone without standard quality checking and testing, but not in the other brands. so you can assure that it works!
+p83
+sg8
+Vneutral
+p84
+sg10
+S'none'
+p85
+sg12
+Vpositive
+p86
+ssI16
+(dp87
+g3
+S'4'
+sg4
+S'Buy the Back Case First!'
+p88
+sg6
+VMoto G3 is a very good mobile in its price range. Absolutely no issues in that. Though, the screen boasts of Gorilla Glass, it is very sensitive and easily breaks if it falls from a height of just 1-2 feet. My phone accidentally slipped, and the glass broke. Replacement cost is MORE than Rs. 6000. Other options of going for duplicate screen replacement at local shops is not available for this MOTO G. It is hard to find Moto G service centres near by, and even if you find one, they will keep the mobile with them for very very long time, and you would just have to ask them again and again, which could be a frustrating experience. \u000aSo, BUY A BACK CASE!! You never know when your phone may slip.
+p89
+sg8
+Vnegative
+p90
+sg10
+g18
+sg12
+Vnegative
+p91
+ssI17
+(dp92
+g3
+S'5'
+sg4
+S'Moto G3 vs Samsung J5'
+p93
+sg6
+VImpressive specs and build quality, but when it goes against the J5 it's a tough choice so i went through a lot of research and used both the phones, here's my fast comparision \u000aBuild Quality- Moto G3(samsung has a plastic feel)\u000aDisplay- Samsung for its super AMOLED display which has more saturation and vibrant colours\u000aCamera- Moto G3 because of better optical utilization and better low light pictures but j5 has a better front camera\u000aUI- Moto G3 hands down( pure android experience,no lag, no bloatware and a guaranteed update everytime)\u000aBattery- Samsung(3000mah)\u000aSpeakers- Moto G3 (even with a single speaker it's louder than most phones)\u000aWater resistant- Moto G3(plus point) \u000aNow talking about specs, while both are almost identical, Moto G3 handles games better with no lag and heating because of its UI(heats up a little when on charge), while touchwiz uses up a lot of RAM which leaves about 500-800 Ram for other apps..it can only hold 4 apps while Moto G3 can hold 18 apps with ease!  \u000aNow Now there are small things like slight price difference,dual flash,front facing flash,4G LTE but thats up to you.. \u000aIn conclusion i'll give Moto G3 8.5 and Samsung J5 an 8. \u000aI bought G3 for its smooth UI,water resistance, gaming capability and a premium looking phone \u000aIf you want better resolutions,selfies and more battery life, go for the J5.\u000athese phones are simply the best in range right now. \u000athanks for reading :)
+p94
+sg8
+Vnegative
+p95
+sg10
+g11
+sg12
+Vpositive
+p96
+ssI18
+(dp97
+g3
+S'5'
+sg4
+S'Dont just go by specifications, this is best mobile phone experience that 13k can buy.'
+p98
+sg6
+VFirst I had moto G 2014 already, I ordered this new one today and got same day delivery as flipkart first customer. As always great service from Flipkart. \u000aNow to the phone, it has better processor, better RAM 2 GB , pure Android, 13 MP very fast rear camera and water resistant features etc etc all this was known from specifications. \u000aI am writing about experience - first the looks - excellent impressive look, specially back. Feels light and just perfect size in holding. Screen is sharp although not full HD but does the job perfectly. \u000aSo far the phone is smooth as butter and no lag or hanging. Pure Android is always great. And 2GB RAM seems to be good choice in choosing between the two versions. \u000aCamera is super fast so far, and the twisting gesture to open camera and same feature to switch between front and back camera is very useful. Picture qualit is superb. Must be best in sub 20k phones.\u000aOther such smart features are chop chop to start torch, smart lock , trusted places, devices etc. \u000aOne of the best features is moto display for smart, battery saving notifications. Very useful indeed.\u000a4G is working just fine so far. Battery in half day continuous use has gone down 50%, too early comment about how will it fare after few months and regular use. \u000aCall quality is superb and audio quality seems to be improved over last version. Inbuilt audio effects is great addition.\u000aI have not tested water resistance but its certified so I hope it works.\u000aSo far so good, infect very good. \u000aOverall I would say in 13k its best phone as of today, dont go by just specifications comparison, one may find same specs in sub 10k too. But experience is worth it with moto brand. .I am satisfied, worth the wait of last 2 months.
+p99
+sg8
+Vpositive
+p100
+sg10
+g11
+sg12
+Vpositive
+p101
+ssI19
+(dp102
+g3
+S'1'
+sg4
+S'Heating issue with Moto G 3rd generation'
+p103
+sg6
+VWith lot of faith and waiting several days purchased Moto G3 two days ago.\u000aHeating or radiation issue noticed even after talking minimum 10 mints on the phone.\u000aI am very disappointed with heating issue. Contacted customer, they informed me to contact Flipkart for replacement as it has 30 days warranty. Replacing phone could be a workaround solution. But Motorola should consider this issue with permanent solution.
+p104
+sg8
+Vnegative
+p105
+sg10
+g11
+sg12
+Vpositive
+p106
+ssI20
+(dp107
+g3
+S'1'
+sg4
+S'Simply flipkart publishing 6 offers but no such offers'
+p108
+sg6
+VFlipkart to sell the MOTO G3 mobiles they r offering 6 offers but which is not true....\u000aFalse statement given by flipkart
+p109
+sg8
+Vneutral
+p110
+sg10
+g18
+sg12
+Vnegative
+p111
+ssI21
+(dp112
+g3
+S'3'
+sg4
+S'Camera is awesome but sometime hanging.'
+p113
+sg6
+VThe best is 1. camera 2. Battery 3. Faster 4. screen 5.Design.\u000aWhile playing some game(angry bird 2,asphalt 8) while i ' m swiping down the status bar it is not working .sometimes the touch is not working while playing the game. Plz provide some upgrade to solve the issue.
+p114
+sg8
+Vnegative
+p115
+sg10
+g85
+sg12
+Vpositive
+p116
+ssI22
+(dp117
+g3
+S'4'
+sg4
+S'Product returned, waiting to book a replacement...'
+p118
+sg6
+VThis is my first mobile of Moto (I own an HTC 516 and my brother has a Moto E, and he has faced no problem with that till now. *Touchwood*). My first experience was good. The initial set up took some time but the function was smooth and not sluggish. Obviously I bought this for the features and my first check was the camera. Both the front and rear camera quality is great. I took a few snaps with the front camera with dimmed lighting and it came out nice. Overall think the phone stands up to whatever is said about it. \u000aDon't wanna repeat the specs and give a boring comment on that. But think in this price range Moto has really given a good phone with good features.  \u000aAnd it seems all what I said is bouncing back on me and hitting me hard. \u000aThe video playback is sluggish and when I contacted the Moto help thru their online facility, the person said that it will be recurring and I need to follow a list of steps to clear cache on the phone. Now if the problem is recurring, they why can't they service the mobile? Or give a replacement? \u000aVisited the Moto Service center. They said software needs to be updated. Put up my case to Flipkart and they have taken my mobile back and given a refund.  \u000aThank you Flipkart.  \u000aWaiting to book another mobile but it seems to be out of stock at the moment (as on 14/9/15). \u000aP.S: This is my first review and it may seem blunt but I am not a techie guy and so I have said what I felt at heart.
+p119
+sg8
+Vnegative
+p120
+sg10
+g34
+sg12
+Vpositive
+p121
+ssI23
+(dp122
+g3
+S'5'
+sg4
+S'Good Product from Motorola'
+p123
+sg6
+VOverall great experience... \u000aPros:\u000aCamera Super...\u000aPerformance\u000aStorage\u000aWater resistant \u000aCons:\u000aUnremovable battery
+p124
+sg8
+Vpositive
+p125
+sg10
+g85
+sg12
+Vpositive
+p126
+ssI24
+(dp127
+g3
+S'5'
+sg4
+S"It's indeed a Killer phone"
+p128
+sg6
+VThanks for the delivery flipkart.   \u000aAbout the phone its light weight and packed with power.   \u000aDesign: It’s the same as Moto G2, nothing much new apart from back metallic strip with Moto logo. I expected a much new look.   \u000aDisplay: It has HD display 720 x 1280 pixels (~294 ppi pixel density) with gorilla glass 3 and the touch response is good. The viewing angles are excellent which makes better to watch movies and videos. The brightness is better compared to Moto G2. Over all the display is good.   \u000aCamera: It has a 13 MP primary camera and 5 MP front camera. The primary camera has much better options than the predecessor and a better clarity. The front camera is not up to the mark.   \u000aCPU: Have already loaded 20 application and the phone runs as smooth as butter. I did not conduct any tests on this yet but the way I played FIFA 15 on this phone was just awesome, though the phone was got hot after few minutes which is common in all the phones.   \u000aBattery: As I am posting this review much early so did not get to test the battery. I used it for an hour with playing games on it the battery got drained from 42% to 34%.   \u000aMemory: It has 16GB internal memory and 11.92GB is available for use. It has 2GB RAM and 1GB is free after loading many apps.   \u000aOverall the phone is just awesome and the best part is it comes with water resistance and 4G LTE with free 4G airtel sim. This is the best phone under 13K budget.
+p129
+sg8
+Vnegative
+p130
+sg10
+g11
+sg12
+Vpositive
+p131
+ssI25
+(dp132
+g3
+S'5'
+sg4
+S'Stable and reliable phone!'
+p133
+sg6
+VMust really appreciate Flipkart for same day delivery service (on launch day)! \u000aBeing a Moto fan, have already used Moto G (1st & 2nd Gen) and Moto E, I must say, at my budget these were the best phones I had used till then. I was eagerly waiting for next Generation. It was worth waiting. As I just received the handset I am not able to give a detailed review but wanted to share my initial experience\u000aUnique features:\u000a• Water resistance at this price point.\u000a• Moto Display, Assist, Migrate, Alert apps from Motorola.\u000aExperience:\u000a• Account setup and transfer of data was completely done in just half an hour, thanks to Moto Migrate and other features.\u000a• Camera and battery performance are very good.\u000a• Particularly liked the overall stability and experience that the smartphone offers, infact across generations, which is missing in other pears.\u000a• Airtel 4G ready SIM along with this new handset can be used to swap to the micro SIM and start experiencing the handset immediately.\u000a• Finally, a long lasting handset with very good hardware and its complimenting softwares.
+p134
+sg8
+Vnegative
+p135
+sg10
+g11
+sg12
+Vpositive
+p136
+ssI26
+(dp137
+g3
+S'1'
+sg4
+S'faulty piece'
+p138
+sg6
+VI bought the New Moto G3 on 31st July. It is giving problem on speaker from the first day i received, earlier I thought this might be my illusion but now I see the phone is not even ringing.
+p139
+sg8
+Vnegative
+p140
+sg10
+g85
+sg12
+Vnegative
+p141
+ssI27
+(dp142
+g3
+S'2'
+sg4
+S'Moto G3 - Terrible experience with Flipkar'
+p143
+sg6
+VPre-booked the moto g3 ... got delivered by Flipkart in 10 days.. \u000aThe phone is awesome except that certain times, the sound quality suddenly dips. There is a lot of crackling noise and disturbance. \u000aFlipkart is refusing to replace the phone ! On top of it, each time they take my request, some technician calls up, asks me download a software patch from a link, then do a Factory Reset and Hard Reset and S/w update. It is a hardware problem & they are giving me software solutions !! \u000aExpected better replacement process from Flipkart.. my first online purchase and this is the experience that i get ...  \u000aBack to the phone, except for the sound issue the phone is wonderful. Stock Android OS is butter smooth to use, the screen is brilliant and the back cover looks amazingly premium. \u000aBattery lasts me more than a day with average use.. camera is great and no lag experienced in using apps so far
+p144
+sg8
+Vnegative
+p145
+sg10
+g18
+sg12
+Vpositive
+p146
+ssI28
+(dp147
+g3
+S'1'
+sg4
+S'Worst Service by Flikart'
+p148
+sg6
+VI had ordered a Moto G 3rd generation mobile on exchange offer ( Moto G 1 st gen exchange) , till my product has not been delivered. Two times i got message that product is cancelled by Seller and two times i got message that it will be delivered. I dont understand why this is happening, i want my Moto-G 3rd generation to be delivered at the earliest. Hope best Service is to be provided by Flipkart, the product delivery date was 3 August . \u000aNow the Status is showing the Order is cancelled and it is showing refund of amount will be done. \u000aSorry to say, in the offer of exchange i purchased the mobile which offer is not right now available at Flipkart so Flipkart said it is technically not possible to delivere the product  \u000a One cant cancel the Order when the flipkart has delivered 30 Orders on same address.  \u000aHOPE FOR FLIPKART CUSTOMER MATTERS TO YOU
+p149
+sg8
+Vnegative
+p150
+sg10
+g34
+sg12
+Vnegative
+p151
+ssI29
+(dp152
+g3
+S'5'
+sg4
+S'Motorolla really learned how to make a good phone'
+p153
+sg6
+VI bought moto g 1st gen on first day of its release (Feb6th 2013) and moto g3 also i bought on first day itself. \u000aThese days you will get octa core processors, 2gb RAm, and 13 mp cameras in phones below 10k range also. Those phones on paper are better than moto g3. But none of those phones even come close to performance and reliability of moto g. My moto g1 is still working as fast as day 1.  \u000aMotorola delivers on fronts which really matters. No bells and whistles, pure performance. If you want a iPhone like phone in android at low cost moto is the go to phone.  \u000aDont even think twice to buy this!! Amazing phone at affordable price!!
+p154
+sg8
+Vnegative
+p155
+sg10
+g11
+sg12
+Vpositive
+p156
+ssI30
+(dp157
+g3
+S'1'
+sg4
+S"The phone's hardware is just not at all reliable"
+p158
+sg6
+VThe phone is not detecting the SIM cards even if we insert in the SIM Cards. The problem is there in both the SIM Slots. I have given a visit to Motorola Service Centre in Pune and they have affirmed that this issue is due to defect in Hardware. Also, they themselves have advised me to request for a replacement product (Mobile) in exchange of this defective piece delivered to me. Please look into the issue urgently and give me a replacement mobile instead of this defective piece delivered to me. This issue happened within days of it being delivered.
+p159
+sg8
+Vnegative
+p160
+sg10
+g85
+sg12
+Vnegative
+p161
+ssI31
+(dp162
+g3
+S'1'
+sg4
+S'Worst Phone i Ever Used and worst Moto Service'
+p163
+sg6
+VI am sharing my personal experience with Moto G3,. \u000aFlipkart Delivery: \u000aI brought Moto G3 from Flipkart, that too with lots of difficulty and struggle. Everyday mobile was out for delivery but not reached me at all. After almost a week with the help of nearest ekart service. This time felt very bad about flipakart delivery service. Even though reporting and posting it several times to Flipkart customer service, I didn't get any response. That's made me feel great about Flipkart. \u000aMoto G3: \u000aFrom day one reported so many issues with New Moto G3,\u000a1. Screen has Lots of horizontal and vertical line, we can see when its tilted to some angle when display is off. When asked customer care folks they said its Gorilla glass and its common, its not a problem.(CHecked with new Moto G3 Phone no lines at all).\u000a2. Caller is not able to hear voice properly\u000a3. Mobile gets heated up to 50 degrees when switched Mobile data \u000aBut Moto customer care said, take it to nearest service centre. We don't have that much time to visit service centre.(I did mistake by not asking replacement.) \u000aAfter 40 days of use its went to switched of and was never able to switch it on again. I went to service center(B2X Koramangala) and given my phone. They said If it has software issue they will give within 2 days and if it has hardware issue then they will replace the part and said it may take 10 days.\u000aIts been 36 days still i didn't get my phone. Service center contact number they have given its always Busy. I followed up with Moto Customer care, every time they kept on telling " you will receive updates within 48 hours ". Till now i didnt get any response from service center nor from Moto Customer Care.\u000aReally frustrated with Moto Service and Phone. So I don't recommend this phone to my friends. ( Wrongly recommended to a friend and got scolding's for some other issues with phone.) \u000aSo don't buy.
+p164
+sg8
+Vnegative
+p165
+sg10
+g18
+sg12
+Vnegative
+p166
+ssI32
+(dp167
+g3
+S'2'
+sg4
+S'Manufacturer Defect!!! Display Problem!!! (Please Read Once Before You Buy)'
+p168
+sg6
+VHello Everyone,\u000aOne line for Flipkart before reviewing this Mobile. "Great Delivery!!! Great Service!!! Flipkart You Rocks ".\u000aNow, \u000aIf you are planning for this Masterpiece, please wait, Read this review carefully, then decide.\u000aThis is my 3rd motorola smartphone after moto G and moto E(2nd Gen). I am writing this review after using this mobile for almost one week. As you can see many reviewers has given good rating and very good comments on this mobile. I am also completely agree with them. The build quality, camera, performance, battery backup and others features are really great under 13K. \u000aNow a simple question to all the owner of this mobile before i comments on the problem. \u000aFriends, are you able to notice any disturbance with display screen(not with gorilla glass). If not then check once and give your valuable comments. \u000aLet me tell you in details. Guys there is a problem with the display. There are thick lines through out the screen from top to bottom. You can easily notice this by turning off the display, keep you mobile under light and observe from different viewing angles. If i am not wrong, you will feel like there is a curtain hanging over the display.  \u000aSo initially i thought there is a problem with this particular piece, so i placed a return request and i got a new piece today. While i was receiving the second one from ekart store, there were another 4-5 people who were unboxing their brand new Moto G3. Then i checked with them, and sadly we all noticed the same problem with all the handsets in presence of eKart guys. Today again i have logged a complain with flipkart customer care and waiting for tomorrow to have a discussion with their technical people. \u000aI am a big fan of Motorola because of its build quality, i have already used Moto G, Moto E (2nd Gen), but this time it disappointed me. So friends, if this problem is not disturbing for you then definitely go for Moto G3 \u000aHope this review will help you to evaluate this product. Thank You.
+p169
+sg8
+Vpositive
+p170
+sg10
+g11
+sg12
+Vpositive
+p171
+ssI33
+(dp172
+g3
+S'1'
+sg4
+S'Return request'
+p173
+sg6
+Vi have given return request but you people not responded this mobile is not good even camara is not good, even flip kart response towards customer very bad........
+p174
+sg8
+Vnegative
+p175
+sg10
+g85
+sg12
+Vnegative
+p176
+ssI34
+(dp177
+g3
+S'1'
+sg4
+S'Refund My Amount'
+p178
+sg6
+VI am not satisfied with Moto G(3rd Generation), after purchase this cellphone facing so much Problem, hanging problem , Battery Discharge with in 15-20 Minute & biggest Problem in this phone its heat too much that i can't touch.\u000a So Can't use this phone, I request you please refund my amount As Soon As Possible.
+p179
+sg8
+Vnegative
+p180
+sg10
+g85
+sg12
+Vnegative
+p181
+ssI35
+(dp182
+g3
+S'5'
+sg4
+S'Truly justifies the tagline - Exceptional Phone, Exceptional Price'
+p183
+sg6
+VMoto G (3rd Gen) truly justifies the tagline which was the main highlight of the revolutionary product, the Moto G 1st Gen. The upgrades from the 1st gen may not seem to be worthy upgrades to some customers but what remains on paper, will remain on paper. You can't judge a book by its cover, right. What matters is the experience and Moto G truly lives up to the expectations of those who want a good device at a reasonable price. I am saying reasonable because of the performance, the specs and the build quality.\u000aComing to the phone, the best thing about it is the display which is very bright and vivid. People will complain about low PPI but they are unaware of the fact that the human eye's maximum recognizable resolution is 300 PPI. Apple isn't fool to stick to 321 PPI. The camera is good, especially the front camera. Speaker performance is decent but the sound output is amazing on a pair of good earphones, I tried it on Sony earphones. Everybody knows about stock android experience. It works seamlessly without any hiccups, thanks to the RAM management and the hardware :D \u000aThe design of the phone may not be award winning but is very subtle and the phone feels to be very sturdy and because of the metallic finish, the patterned back cover and the strip behind, it doesn't look and feel like a 13k phone. Call quality is pretty good. I couldn't test the battery but it will hopefully last for 1-1.5 days considering the software package that comes along with the phone (no bloatware) which is accompanied by the efficient hardware. The in-box accessories now include a detachable USB cable (finally :P) and one can charge two phones simultaneously since the charger has two USB ports.....smart design :D\u000aThe icing on the cake is that the phone is now IP certified. Phone got dirty,something got spilled on it! Don't worry, just go and dip it in water and use it, like a boss :P It supports Moto maker too :D but I believe the customization will be slightly on the higher side of the price point \u000aComing to the cons I couldn't find any in the phone. But Motorala should provide good in-box accessories, like the earphones which are just above average :( Other than this, Motorola Moto G leaves no stone unturned in any department you consider it, whether it is performance, build quality etc :D
+p184
+sg8
+Vnegative
+p185
+sg10
+g11
+sg12
+Vpositive
+p186
+ssI36
+(dp187
+g3
+S'2'
+sg4
+S'IPX7 certification is fake'
+p188
+sg6
+VReceived the product on 24th Aug 2015, used extensively for 2 days and it performed well.\u000aBut when tested in water, its calling speaker stopped working. \u000aIt is certified that it can withstand 3 ft water depth for 30 mins but the devise could not do so for 2 mins in 0.5 ft depth. \u000aMoto should not mention IPX7 certification if it cannot prove this. \u000aVery dissatisfied. \u000aCustomer care was cooperative but could not solve the issue. \u000aNow it all depends on the Service center guys. \u000aI hope they resolve this issue fast and do not charge anything. \u000aAs warranty period covers a hell lot than 3 days. \u000aBut the extra hassle is a pain in the A*s. \u000aI hope they don't break my trust.!
+p189
+sg8
+Vnegative
+p190
+sg10
+g11
+sg12
+Vnegative
+p191
+ssI37
+(dp192
+g3
+S'1'
+sg4
+S'EXCHANGE'
+p193
+sg6
+VI bought a phone and has not even been a month and it is giving me problem in swiping the phone to unlock. So kindly exchange it before it gets more older. \u000aRegards,\u000aNitisha pradhan
+p194
+sg8
+Vnegative
+p195
+sg10
+g85
+sg12
+Vpositive
+p196
+ssI38
+(dp197
+g3
+S'4'
+sg4
+S'Up-to the mark.'
+p198
+sg6
+VJust opened the box:\u000aLove:\u000a1. The back panel and side rim feels good to hold.\u000a2. Open the back panel and you will love the build quality and the way it is packed.\u000a3. The Charger provided has two USB ports. Now this came as surprise. \u000aHate:\u000a1. Yet again pathetic earphones. Better they reduce some bucks instead of giving such waste earphones.\u000a2. Volume and Power button is a bit clumsy.
+p199
+sg8
+Vnegative
+p200
+sg10
+g11
+sg12
+Vnegative
+p201
+ssI39
+(dp202
+g3
+S'5'
+sg4
+S'I think, buying Moto G 3rd Gen. was my wise decision'
+p203
+sg6
+VSuperb build quality, nice design, both cameras do good job, Android 5.1.1, Light weight, Sleek design, 5" HD display (my preference 5"), decent battery, IPX7, Dual SIM and so on...\u000aThere are some other phones available in market within same price range, but I will definitely recommend it.
+p204
+sg8
+Vpositive
+p205
+sg10
+g85
+sg12
+Vpositive
+p206
+ssI40
+(dp207
+g3
+S'4'
+sg4
+S'Moto G3 - Every penny is worth it'
+p208
+sg6
+VFlipkart is doing amazing job by providing its customers the best handsets in the market. In the league of smartphones, where every other day a new company comes up with new features and attractive prices, I must tell you Moto series from Motorola has made its own league, which is way different from the other handset manufacturers. Moto G is not only a brand, but has also successfully created a trust factor which somewhere was missing in the rush of overflowing smartphones in the market. \u000aI was initially using Moto G 1st generation, which ofcourse was a big hit from Motorola launched last year. I was completely satisfied with Moto G 1st Gen last year, which I used without a single problem till date. Now I felt the need to upgrade myself to a higher RAM and better camera. Truly speaking, Moto G 2nd Gen never impressed me, and that's the reason I decided to wait a little more. Guys, trust me on this, my wait was worth it. Moto G 3rd Gen is a superb power pack smartphone with an all round performance in each segment. Moreover, the price in which it comes is an added advantage which is just Rs. 12,999/- Two things which I didn't like are firstly they have removed the Pulse LED notification light and secondly the wire of the USB cable is too short. I miss the notification pulse light, as it was in my previous Moto G 1st Gen.  \u000aSpecifications and technical details I wont discuss here in my review, as its already mentioned everywhere. I liked the screen, the touch, the glaze and the finish of the handset, smoothly designed edges, the compactness and the standard feeling when you hold the device in your hand. The back cover makes the phone grip handy, comfortable and easy to use. Camera is just too good, front as well as the main. Battery seems to be working well in 3G connection. The user interface is so awesome, android Lollypop is fast and efficient. Altogether, the handset works like a wonder. My personal suggestion to all the new buyers, if you have a budget somewhere around 10k-18k, then don't hesitate to buy Moto G 3rd Gen. I am dead sure, you all will thank me later for this advice. Last but not the least, thumbs up for the Flipkart delivery, as I ordered my Moto G3 on its launch day and I received it within 2 days.
+p209
+sg8
+Vnegative
+p210
+sg10
+g11
+sg12
+Vpositive
+p211
+ssI41
+(dp212
+g3
+S'2'
+sg4
+S'Got Moto G3 damaged film layer of speaker'
+p213
+sg6
+VNot happy with product as It got delivered with damaged film layer of top speaker . I don't if replaced phone will not have it or its bad built from the company .
+p214
+sg8
+Vnegative
+p215
+sg10
+g11
+sg12
+Vnegative
+p216
+ssI42
+(dp217
+g3
+S'1'
+sg4
+S'Moto G 3rd Gen is Heating and Signal Lost Issue'
+p218
+sg6
+V1. Using camera for more than 5 min phone gets heating like a iron box.\u000a2. Using dual sim Signal getting last abruptly any time.
+p219
+sg8
+Vnegative
+p220
+sg10
+g18
+sg12
+Vpositive
+p221
+ssI43
+(dp222
+g3
+S'4'
+sg4
+S'Moto G3 Usability'
+p223
+sg6
+VMy review is completely based on usability. \u000aMultitasking is very fluent with all basic social networking running backend. \u000aScreen clarity is good with 300 ppi approx. for a 5 inch mobile..\u000aStock android L experience is great.\u000aBoth front and rear camera captures good snaps. Specially brightness/saturation is added appropriately to the pics taken from selfie cam. \u000aCall clarity at both end is very good.\u000aWater resistance is added advantage.\u000aBuilt quality is very sturdy . Feels mobile is much secured and good while holding it in hands due to its back grip cover. \u000aGraphics and quadCore performance is nice, I have played Asphalt 8 and mortal kombat and it runs fluently.\u000aBattery backup is very good, it almost gives a whole day backup with wifi/3G on and normal usage.\u000aBottom line it has improved too much interms of performance as compare to moto G-2014 which I had earlier due to its 2GB RAM and processor/GPU \u000aCons:\u000aMobile stays little warm all the time compared to other mobile. I am not sure if this isuue is common or specific to my mobile. Waiting for other reviews
+p224
+sg8
+Vnegative
+p225
+sg10
+g34
+sg12
+Vpositive
+p226
+ssI44
+(dp227
+g3
+S'1'
+sg4
+S'Worst product ever had .. poor internet , hanging problem'
+p228
+sg6
+Vi had samsung and asus 501cg but above all i purchased motog 3 gen 16 gb , but very unhappy from the phone as net is poor , hanging problem is there , no user friendly . not interested to keep this phone .... lets wait for the flipcart team to revert . purchased 5 days ago .
+p229
+sg8
+Vnegative
+p230
+sg10
+g11
+sg12
+Vneutral
+p231
+ssI45
+(dp232
+g3
+S'3'
+sg4
+S'Good Phone But facing Heating issue when making video.'
+p233
+sg6
+VGood Phone but I am facing heating issue when making video. In any one else facing same issue ? It got heated at temperature 44 in making video for 7-10 min .Is it normal for moto G 3 Gen
+p234
+sg8
+Vnegative
+p235
+sg10
+g85
+sg12
+Vnegative
+p236
+ssI46
+(dp237
+g3
+S'1'
+sg4
+S'Dont Buy this mobile and waste your money'
+p238
+sg6
+Vit will be heated while using video and games both touch panel and back side.\u000ai have raised return request and it was rejected by flipkart. they have tested using smart check application in the call conversation with flipkart executive. i am totally disappointed with this device. :(
+p239
+sg8
+Vneutral
+p240
+sg10
+g18
+sg12
+Vnegative
+p241
+ssI47
+(dp242
+g3
+S'5'
+sg4
+S'Good and Awesome'
+p243
+sg6
+VI got the product with in less than 12hrs.\u000aI like the Design and Camera.\u000aIts pure Android v5.1.1 (Lollipop) OS, Such a smooth and Fast OS.\u000aFrame is Fiber but not metal. \u000aExcept all good. \u000aThank you Flipkart and MOTO. \u000aMy next review after one month of usage of this product.
+p244
+sg8
+Vpositive
+p245
+sg10
+g85
+sg12
+Vpositive
+p246
+ssI48
+(dp247
+g3
+S'2'
+sg4
+S'Battery backup &amp; heating problem..'
+p248
+sg6
+VI had ordered it 15days before,..facing battery back up & heating problem..Battery last only for 3-4hrs without internet..
+p249
+sg8
+Vnegative
+p250
+sg10
+g85
+sg12
+Vneutral
+p251
+ssI49
+(dp252
+g3
+S'5'
+sg4
+S'Simply Superb Moto rocks.....'
+p253
+sg6
+VOrdered the item on 28th midnight at around 12.30. Next day before reaching to office phone was delivered.\u000aThanks flipkart for the super-fast delivery. \u000aUser experience is simply awesome..!\u000aButter smooth touch screen\u000aBattery capacity has been increased..\u000aLollipop out of the box.\u000aOK google support from any screen \u000aNo doubt this the best phone available in this range.
+p254
+sg8
+Vpositive
+p255
+sg10
+g85
+sg12
+Vpositive
+p256
+ssI50
+(dp257
+g3
+S'1'
+sg4
+S'A brief report'
+p258
+sg6
+VIn about a week usage, I found that the phone is heating up, especially in or around camera & the below back panel, within 15-20 minutes of data usage or calls. The smart check app as authorized by Flipkart only checks the CPU internals, which any ways is zero during the call! I think, considering quite a few heating complaints of this device, Flipkart should probe it a bit further rather putting a faith in a app. which well. doesn't have even the authentication certificate to install itself without an warning pop-up.
+p259
+sg8
+Vnegative
+p260
+sg10
+g18
+sg12
+Vnegative
+p261
+ssI51
+(dp262
+g3
+S'2'
+sg4
+S'heating problem'
+p263
+sg6
+Veven using the phone for 30 sec it heat so much that it is even impossible to even hold and temp rises from 36degree to 42 degree in 5 sec and goes upto 46degree c which comes in the red zone even the app are telling the phone is having a heating problem...\u000aall the feature are awesome but this problem ruined the whole experience ..\u000aOrdered for a replacement see what happens next
+p264
+sg8
+Vnegative
+p265
+sg10
+g85
+sg12
+Vnegative
+p266
+ssI52
+(dp267
+g3
+S'5'
+sg4
+S'Good Upgrade from G2'
+p268
+sg6
+VFirst of all, super fast delivery! I ordered the phone at around 1130am and was unboxing it by 4pm on the same day! \u000aSecondly, I exchanged my old Moto G1 for this Phone, so got a great discount too. \u000aIt is a great phone for it's price range and that is what made me hang on to my Moto G1 until now, when I found I the right upgrade.  \u000aAs of now, I got a chance to test the camera and the pictures have come out great both in low light and during the day. The flash upgrade has helped. \u000aThe phone is fast and apps do not have any lag. I used to face a lag for certain large games on he G1 but don't seem to face any of that on this phone yet. \u000aWould recommend this phone to anyone any day.  \u000aMy only concern is that flipkart could have taken the old phone after a day (as they charge you for pickup anyway) as it would have given a chance to try out moto migrate between the two phones.
+p269
+sg8
+Vnegative
+p270
+sg10
+g11
+sg12
+Vpositive
+p271
+ssI53
+(dp272
+g3
+S'3'
+sg4
+S'quality and camera'
+p273
+sg6
+Vi bought moto g3 but i found that quality is not good compare to earliar version camera is capturing yellowish picture
+p274
+sg8
+Vnegative
+p275
+sg10
+g85
+sg12
+Vnegative
+p276
+ssI54
+(dp277
+g3
+S'5'
+sg4
+S'Buy it for a smooth experience, not for flaunting specs'
+p278
+sg6
+VI have updated my experience after 5 days of usage at the bottom.\u000a-------------------------------------------------------------------------------------------------------------\u000aI have been using an Xperia (high end) and shifted to Moto G3. I am a moderate intensity user with majority usage in communication apps. No major gaming usage. As soon as Moto G3 was released, I realized the specifications are perfect for me. Also, it is very important to judge overall stability of the product rather than just specifications. If high spec hardware is not tuned properly, then desired usage experience can not be achieved. Considering previous Moto G model performances, I decided to buy this, even if similar or better specs are available in the market at lower price.  \u000aExperience:\u000a1. Size, Build: 5 inch screen is perfect for me and there are not many options available in the market. The phone is handy, with good build quality. Back cover finishing is nice and gives grip. Though the back lid is not fitted with finesse and also, plastic film in the top speaker lacks fine finishing. But acceptable for this price range. \u000a2. Resolution: I am happy with 720p. Having full HD just for sake of it at the cost of battery does not make sense. Display is clear and vibrant. No complaints. Touch performance is smooth, does not miss any touches. \u000a3. Performance: Did not have any lags in any activity. However, I am yet to put pressure on phone. 2 GB RAM supports the phone adequately. Somebody is comparing this phone with Moto E just based on processor, and it is hilarious. \u000a4. Battery: I charged it full yesterday, used it for 1:30 hrs non-stop. Woke up today morning and used it moderately for 6 hours and it is showing 52%. Good battery performance.\u000a5. Camera: It is better than previous Moto G versions. It is better than many peers in the market. But it is not something which will blow your mind. Front camera is decent too.\u000a6. Audio: Call quality is good. Music sound quality in speakers is loud enough and clear. \u000a7. Accessories: Charger comes with dual USB ports. But takes some time to charge. Headphone are ordinary.  \u000aI miss the LED notification indicator  \u000aThere are some jazzy things like flick-wrist for camera and karate-chop for torch. They work fine. Only if you want to show-off something different. The sleeping screen notifications are overenthusiastic. :) They wake up even when you are walking or driving.  \u000aOverall, it is a good buy. I would give it 4.5. \u000a-------------------------------------------------------------------------------------------------------\u000aUpdate after 5 days of usage: \u000a- I have installed number of apps. No lag at all. Touch sensitivity remains butter smooth. \u000a- Battery life is good. I have kept my phone at high brightness level, all syncs are on, either wifi or 3G is connected. It lasts around a day.  \u000a- Initially my voice calling services on communication apps were not working (whatsapp, viber). I saw somebody else also facing the problem and gave bad rating. Just restart your phone once after you do initial setup. Everything works fine. \u000a- Camera, as I said earlier, is not great. Low light pictures are slightly grainy. Daylight pictures are good. While clicking pics on front cam (the transition time of a second when your picture is previewed) the screen turns sepia. Not sure if thats an intentional effect, but it does not look very good. The camera performs better with third party apps.  \u000a- The dropdown tools enable me to cast my phone on chromecast immediately and casting is perfect. My chromecast is more useful now. :)
+p279
+sg8
+Vnegative
+p280
+sg10
+g11
+sg12
+Vpositive
+p281
+ssI55
+(dp282
+g3
+S'4'
+sg4
+S'Good Google phone but read problems first..'
+p283
+sg6
+VAfter using it for over 4 months, here is my review (in very simple words, without using Jargons). I won't write generic review but only that matters most.  \u000a1) Camera - Everything is good except Autofocus on widescreen option (16:9 - 9.7 MP). Solution is to keep aspect ratio as standard (4:3 - 16 MP).\u000aDistant photo is good. Selfie mode is also good. Friends, Slow try slow motion video. Amazing feature I must say. Camera in low-light doesn't give u good picture. So, be aware of it. \u000a2) Heating - Friends, I returned Moto G3 for replacement in 3 weeks because I was experiencing heating issue so much that it was uncomfortable to hold in my hand. After following flipkart procedures, I got brand new Moto G3. It also had the same issue initially. You will find heating issue on the screen more than back cover side. Device temperature many times has exceeded 45 Degree Celsius (at 2 occasions, it has also crossed 54 Degree). Motorola should give some software update to resolve this issue. \u000a3) Headphone - Moto G3 Earphone that you will find alongwith this phone is very ordinary one. You won't be able to use on crowded/noisy place for making/receiving calls, listening Radio/music.  \u000a4) Battery - It long last only for a day when you don't use it heavily. Sometimes, you may need to charge twice in a day. Motorola should have provided at least 3500 MAH battery. \u000a5) Mobile Data on/off - There is no short-cut for turning on/off mobile internet in notification bar as we had in previous versions of Android.  \u000a6) No file manager app - You need to download third party app such as ES explorer, etc.  \u000a7) Transfer to/from laptop or other device - It was very slow from my experience even from phone to SD card when we use USB mode in laptop (but very fast when we use file manager app of phone).  \u000a8) You may need to download third party app for contact management (duplicate contacts, etc), Compass, good music player app, etc.  \u000a9) Web-view - Sometimes, you might not be able to load particular website (either its chrome issue or particular website issue) \u000aAfter reading Cons, please go through Pros:  \u000a1) "Ok Google" feature - Its amazing feature from Google. You need to say "OK Google" from home screen (or any screen provided you make proper setting), based in your voice command, it will make a call from your contacts, write a messge, fix an appointment or meeting, make reminder, play songs, videos from youtube, Navigate you from one place to other, etc.  \u000a2) Activate "Google Now" cards - It gives info about your credit card dues, shopping order delivery status, birthday reminders and other info based on your interest.  \u000a3) Updated softwares - You get Android 5.1.1 Lollipop version (which is latest version) and you will get Android 6.0 Marshmallow update soon in 4-5 months.  \u000a4) Camera - Rear camera of 13 MP is Okay and front camera of 5MP does its great job.  \u000a5) Performance - No lag. 2 GB RAM is sufficient for moderate use.  \u000a6) Gorilla Glass 3 - Very good. You won't find any scratches. No need to apply screenguard.  \u000a7) Build and Look - Looks great in hand. Feels like we are owning any higher version of Flagship phone.  \u000a8) Budget - Budget phone under 13K (I got at 10% discount using Citibank card).  \u000a9) Flipkart and Moto support - Excellent.  \u000a10) Display - Even though its not full HD, but you won't feel much difference.  \u000a11) FM - Good app. After update, recording option is available.  \u000a12) Moto Apps - Moto Migrate is best app (you need to download to your old phone to migrate/transfer contacts, sms, calendar info, etc). Moto Action reacts to your hand movements for activating camera or Torch.  \u000a13) Maps/navigation - GPS is able to lock location accurately (this is the plus point when comparing with my old micromax Canvas HD phone which lacked this) and very convenient when we visit new place for navigation. I recommend to use Google functions/service fully.  \u000a14) Speaker - Loudness is sufficient and clear.  \u000a15) Most importantly, no bloatware (Except for Flipkart App, there are no third party apps) so that we get maximum internal storage and good amount of available RAM.  \u000aVerdict -  \u000aIn this price range, its good phone (ignoring little heating issue, no full HD). No need to look at other option. I would rate 4.5 stars. \u000aI will update you further based on further findings, if any.  \u000aThanks for reading. \u000aEdit: I am using over 4 months now. Heating problem is not frequent now. Only when brightness is high and we use it, then only it heats (except setting up phone for first time or heavy downloads). Moto G3 has given some update a month ago. Now, Camera has little bit improved (auto focus).\u000aNo regret in buying this phone.
+p284
+sg8
+Vnegative
+p285
+sg10
+g34
+sg12
+Vpositive
+p286
+ssI56
+(dp287
+g3
+S'5'
+sg4
+S'Simply Excellent Product'
+p288
+sg6
+VI bought this phone on the date of release, i.e 29th July. \u000aFirst kudos to Flipkart delivery - received the next day itself at no extra charge!  \u000aNow, the phone - it runs stock android 5.1.1, will be among the first phones to receive Android 6 Marshmallow. That is a huge plus point to buy this phone compared to its competitors in the market. \u000aIt is butter smooth, and no lags absolutely. I have the 2GB RAM version. \u000aIt is strongly built - can survive accidental drops. Great looker as well. :) 4G, dual sim etc works great. Camera is very good, although there is some blurry photos if you take photos at night. It is 13MP at day time, 8MP at night time :P Front camera is great.  \u000aMoto Display is a very nice feature to have along with the gestures.. Innovative. \u000aBut the biggest highlight I think will be the battery. It is great, generally get 2-3 days battery life from this phone.  \u000aAs for other reviewers stating some drawbacks - I wish to clarify them.. \u000a1. Vertical lines on screen when off - its a common feature on IPS LCD screens.. The glass is having RGB matrix. Google it, and view the images. This screen is of great quality, and of Gorilla Glass 3. I have confirmed that Moto G, Moto G2, Moto G3 has this - It is no problem!  \u000a2. Overheats - maybe its the rogue app - such as facebook , or some apps restarting often. I have experienced no issues on this front. This is not a problem with the mobile, rather its a problem with how you use it! If you use the correct way, there would be no overheating.  \u000aWill update review as my usage progresses further. Have recommended this mobile to many people and all are very satisfied.. Worth for your money. :)
+p289
+sg8
+Vpositive
+p290
+sg10
+g11
+sg12
+Vpositive
+p291
+ssI57
+(dp292
+g3
+S'3'
+sg4
+S'Vertical lines on display, when backlit is off'
+p293
+sg6
+Vhi...when i see my mobile through an angle i am able to see a pattern of vertical lines/Grid on the display, clearly visible in sunlight/outdoor lighting when you turn off screen display.\u000athese are nothing but touch receptors underneath the LCD screen visible due to poor quality LCD/Tint.\u000aThough it does not interfere in usage/functionality of phone.\u000aAs per Tech from Motorola support its normal behaviour and not manufacturing defect, but its something related to quality control during product manufacturing.\u000aif this issue is OK with you, Moto G is a best product in this price range.\u000aall other features are very good except display.\u000areplacement is not gonna resolve this issue, its same with all Moto Handsets.
+p294
+sg8
+Vnegative
+p295
+sg10
+g11
+sg12
+Vpositive
+p296
+ssI58
+(dp297
+g3
+S'5'
+sg4
+S'Great phone!!'
+p298
+sg6
+VAfter a long gap I have purchased motorola phone. For 3 years i have been using samsung phones. And to be frank samsung phones suck. They are slow, hang up and heat up despite claiming good specs. I had grand 2 before motorola g3 and from day one I had heating issues, poor battery back up and despite 1.5 gb ram, grand 2 was slow. \u000aBut when i compare the new motorola phone, oh boy, it is fast and responsive. \u000aPros:\u000a1. Touch is very responsive and fast\u000a2. Absolutely no lag (13 apps loaded so far). Samsung Grand 2 used to hang up. \u000a3. No heating issues. (Samsung grand 2 used to get heated up like an oven)\u000a4. Battery seems to last for good 10 hours with mobile data or wifi on \u000a5. Phone feels light in hand/pocket and the ergonomics is great. \u000a6. The back panel looks premium and gives a nice grip in hand\u000a7. 4g connectivity is great\u000a8. Call sound quality is crisp and clear\u000a9. Camera is super fast (samsung camera is like a snail)\u000a10. Water resistant feature is great though i haven't yet tested. \u000a11. Jet black screen oozes beauty \u000aCons:\u000a1. Non-removable battery\u000a2. I found UI of samsung more friendly but this is not really a con and may be i am not used to motorola UI
+p299
+sg8
+Vnegative
+p300
+sg10
+g85
+sg12
+Vpositive
+p301
+ssI59
+(dp302
+g3
+S'5'
+sg4
+S"Buy this phone! You won't be sorry for your purchase."
+p303
+sg6
+VI mean every one has already given so much reviews and comments about this phone being The best... with its specs... all the points are already covered and the verdict is pretty clear. If any one looking to buy this product and reading reviews.. trust me.. i have read enough reviews and made enough research before buying this phone... what i have learnt.. is.. \u000a1) There are many products of 2GB RAM and 13 MP camera and 16GB storage...\u000aBut how many of them are really reliable ( for long term use ) \u000a2) There are many products with gorilla glass and glossy displays...\u000aBut how many of them gives a premium look... ( Built Quality and holding ) \u000a3) There are many products offering great UI's with fancy features... \u000aBut how many of them gives you a pure android experience... and having future updates. \u000a4) There are many products and phone making companies who makes good budget phones... \u000abut there are some companies who make great phones which are worth spending that 1000 bucks more.... \u000aAll in all Do not buy this phone if you want just a phone .....  \u000aBuy it if you want an experience.... which last longer..
+p304
+sg8
+Vnegative
+p305
+sg10
+g85
+sg12
+Vpositive
+p306
+ssI60
+(dp307
+g3
+S'4'
+sg4
+S'Beyond Specifications...'
+p308
+sg6
+V1. Look & Design: 4/5\u000aIt is a well built phone. The front side looks similar to the previous gen Moto G but the back panel provides more grip and a metallic strip covers the camera and the moto logo. The white model has a silver finish over edges and it feel nice whereas the black one has a dull finish. It's not as handy as other 5 inch phones available in the market like mi4i because of the relatively thick bezels. Even though it feels comfortable in hand.\u000a2. Display: 3.5/5\u000aIt's just 720p IPS LCD display making 294 ppi similar to the previous gen Moto G. Yes, its vertical lines of digitizer is visible in sunlight that might be irritating for users.. K3 note, mi4i, Yu Yureka Plus offeres 1080p panel in this price bracket. But this helps motorola to offer better battery backup. But Samsung J5 comes with a better energy efficient Super AMOLED 720p panel. Asus Zenfone 2 has better FHD video playback compared to Moto G3. But the screen does a good job with good viewing angles and remarkable sunlight visibility. In addition to the corning gorilla glass 3 protection and the oleophobic coating it comes with iPX7 cerified water resistance which is something you won't get in any other phones under 20k.\u000a3. Performance: 4/5\u000aThe 1.4 GHz Snapdragon 410 chipset combined with 2GB DDR3 RAM works well in day to day usage without any visible lag.\u000aZenfone 2 does easily heat up when you click more photos and surfing on internet for a long time. Moto G3 also heats upo when using 3G and video call sometimes upto 45 degrees.Phone dialer showed a little lag sometimes but everything else works very well. If you are a heavy gamer, it's not the phone for you. Zenfone 2 is certainly the winner there. Antutu Benchmark of the device is 24000 which is not that impressive nowadays. We expect a more powerful processor like Snapdragon 610 chipset in this segment but the user experience is what matters.\u000a4. OS/ User Interface: 5/5\u000aHere it beats any other devices available in the market. It gives you a pure android experience without any bloatwares..\u000aRemember other 2GB phones in the market like Zenfone2 running on its Zen UI, K3 note with its Vibe UI are filled with bloatwares and a little RAM will be free at any time.\u000aAfter installing 20 apps Moto G3 showed 900 MB free RAM !!\u000aRAM management is just awesome. What I miss in Moto G3 is the quick Mobile data enabling button. \u000a5. Camera: 4.5/5\u000aIn very good lighting conditions camera clicks sharp photos with good details. But in medium to poor lighting conditions, camera takes average photos without flash. Dual tone flash helps to compensate for the lighting conditions but seems to be over saturated sometimes. It's far far better than lenovo A6000 plus, P70.\u000aMy Zenfone 2 had good focusing capabilties and FHD video recording.\u000aBut Quick Camera App is very fast compared to any other phones in the segment.\u000aFront camera also takes good photos.\u000a6. Battery: 4.5/5\u000aWith 2450 mAh battery it lasts a full day with medium to heavy usage.\u000aI am getting around 5 hrs of screen on time with wifi ON. It takes around 2 hrs 15 mins for complete charging which is good. Even It doesn't heat up during charging which is good. Zenfone 2 with 3000 mAh battery struggles to last a day in real life. \u000a7. Features: 5/5\u000aQuick camera and torch gestures work very well.\u000aWhat I like the most is Moto display with customized notifications without switching on the screen. It saves battery. \u000aCons:\u000aVisible digitizer\u000aHeating \u000a Overall, this is a great buy @13 k. If you are just looking at the specification list, it may sound weird. But in real life user experience you will say its very good.\u000aThanks MOTO ....Thanks Flipkart!
+p309
+sg8
+Vnegative
+p310
+sg10
+g18
+sg12
+Vpositive
+p311
+ssI61
+(dp312
+g3
+S'5'
+sg4
+S'Next level of perfection to Moto Generation...!!'
+p313
+sg6
+VI was initially thinking to buy other phone, but when i heard about upcoming Moto G3 release, waited for launch and i am so much happy that it really worth waiting this phone.\u000aThe phone is just awesome:- \u000a1) Camera both front and back are really good in taking pictures.\u000a2) Sound Quality is superb.\u000a3) No boltware apps, simple smoot UI.\u000a4) More than 1 GB of Ram available, so no lags even while multitasking and gaming.\u000a5) Good design and grip for holding phone in your hands, superb call quality.\u000a6) Both sim supports 4G. \u000aNo cons till now and thanks flipkart for faster and well packed delivery.\u000aJust suggest everyone to go for this phone, as it is next level of perfection to moto generation.
+p314
+sg8
+Vpositive
+p315
+sg10
+g34
+sg12
+Vpositive
+p316
+ssI62
+(dp317
+g3
+S'1'
+sg4
+S'Signal connectivity issue and Interference and Flipkart offers'
+p318
+sg6
+VI am very much disappointed with the performance of Moto g3. I ordered this phone on 2nd August, 2015 and it was delivered to me on Aug 10th, 2015. Within 3 days of usage, the very purpose to have phone is defeated as I am not able to listen other person on the phone due to interference noise, signal drop, voice clarity issues. I am not sure this is one of the defective set which was delivered to me. I have used this device in different places but experience of connectivity issue was almost similar irrespective of location.\u000a1. Signal drop suddenly in this device while my other phone works perfectly in the same environment\u000a2. Signal interference almost in every call, I observed\u000aI have raised a return request for the device and i was informed about some troubleshooting issues. I have completed all troubleshooting steps without any improvement.  \u000aFraudulent Business practice by flipkart:\u000aFlipkart was offering slew of offers for Moto G3 if any one buy before August 2nd. I have not received most of the offer except Wynk music subscription. There was one offer for 500 rs saving for fashion products if you use Moto g3 and flipkart app to buy product more than Rs.1000. I was interested to avail this offer and I followed all procedures as mentioned but not able to get discount. Then, I have called customer care multiple times then they send me a mail, the mail having a link for offered products as mentioned in the mail. However, I added products more than 1000 rs to avail discount but I was not able to do it. Then, I called again flipkart customer care. Customer executive told me the link provided via email contains discounted items. Someone from flipkart again called me in evening then explain the same to me. However, I didnt find any merit in their argument and I believe flipkart is having fraudulent business practice. I believe that no one care for Rs 500 discount in apparels if they are buying phone however, if you are doing business then you should follow business ethics also. \u000aBesides this, if I accept logic that 500 rs discount is added in flipkart fashion product using that specific link then item I am buying should show discount. Interesting thing is that if you will search same products in flipkart website without using weblink provided then there is no difference in prices. Flipkart offers are fluke and these guys are becoming champion for such kind of business ethics.\u000aThank you for such behavior with your customers.
+p319
+sg8
+Vnegative
+p320
+sg10
+g11
+sg12
+Vnegative
+p321
+ssI63
+(dp322
+g3
+S'1'
+sg4
+S'fraudulent'
+p323
+sg6
+VFlipkart announced 6 offers while launching Moto G3, with that 3 offers are not applicable for Tamilnadu customers. We really don't understand concept behind this, we Tamilnadu consumers are also paying the same amount whatever others paying. It's really hurting us to do business with Flipkart. Hence, please review all the Terms and condition before buying any products from flipkart. Especially tamilnadu consumers dont buy any products from flipkart we have plenty of service providers outside of flipkart. About Moto G, i am impressed the features.
+p324
+sg8
+Vnegative
+p325
+sg10
+g85
+sg12
+Vpositive
+p326
+ssI64
+(dp327
+g3
+S'5'
+sg4
+S'As good as it gets'
+p328
+sg6
+VJust got my hands on the 16 GB / 2 GB version. Impressed with Flipkart's delivery. No issues with product. Happy that screen size hasn't changed from 2nd generation version. RAM, Processor and Camera upgrade makes it an unbeatable product for the price it is offered. The new well designed back cover makes it easy to hold and gives a much more premium finish to the phone. Nothing to complain about this product except for its slightly disappointing lack of full HD display.
+p329
+sg8
+Vnegative
+p330
+sg10
+g11
+sg12
+Vpositive
+p331
+ssI65
+(dp332
+g3
+S'2'
+sg4
+S'MOTO G3 - HATE IT'
+p333
+sg6
+VMy MOTO G3 was delivered on 29.10.15 the issues that I am facing \u000a1. VERY VERY BAD PICTURE/VIDEO QUALITY BOTH FRONT AND REAR ABSOLUTE DISAPPOINTMENT. VERY HAZY GRAINY PIX-ELATION ON DOUBLE TAP ZOOM MY SAMSUNG GALAXY S+ 5MP (NO FLASH) DELIVERS BETTER RESOLUTION PICS WITH 100 TIMES BETTER CLARITY SHARPNESS. JUST DONT BUY THE DEVICE IF YOU ARE A AVID PHOTOGRAPHER. \u000a2. APPRECIABLE HEATING ISSUES ON MILD USAGE (PHONE CALLS, FB BROWSING) \u000a3. MOTO TWIST SENSORS DOES NOT WORK SMOOTHLY EVERY TIME. \u000a4. SCREEN TIME OUT DOES NOT WORK PROPERLY ( MY SCREEN TIME OUT SETTINGS WAS 30 SECS I AND MY FRIEND TESTED IT, THE TIME OUT DOES NOT WORK ALWAYS PROPERLY) \u000aI CONTACTED THE FLIPKART CALL CENTER FOR REQUESTING A CALL BACK,THEY INSTALLED SOME SMART CHECK APP ..IN THE END THEY REJECTED THE RETURN REQUEST. THEIR REPLIES \u000a1. CALL US BACK WHEN YOUR PHONE GETS HEATED NOW THE TEMPERATURE IS FINE...WTF DONT I HAVE ANY JOB FOR THE DAY THAT I HAVE TO BE ALERT WHEN IT GETS HOT AND CALL THEM...MARK U NEED A SECOND PHONE TO CALL THEM. \u000a2. CAMERA QUALITY SIR ITS FINE...AN INSULT AS IF I AM BLIND/CHEAT/FRAUD WHAT IS IT U GUYS ARE IMPLYING...OR MAY BE THEIR DEFINITION OF OKKE PIC IS WAY BELOW STANDARD....NEITHER THEY ARE GIVING ANY OPTION VIA WHICH I CAN SEND THE PICS I HAVE CLICKED AND WHOSE QUALITY IS BAD AS PER ME I HAVE TAKEN ENOUGH PICS IN THE LAST 3YRS I MAY NOT BE AN EXPERT ON PHOTOGRAPHY BUT I SERIOUSLY THINK I KNOW WHATS THE MEANING OF CLARITY IN A PICTURE...MOTO G2 GIVES BETTER PIC...OR FOR THAT MATTER ANY PHONE. \u000aI WOULD REQUEST EVERYONE NOT TO BUY MOTO G3 (IF YOU ARE NOT WILLING TO GAMBLE WITH YOUR HARD-EARNED MONEY) IF U GET A DEFECTIVE UNIT YOUR REPLACEMENT REQUEST WILL BE REJECTED BASED ON THEIR SMART CHECK. SORRY GUYS RIGHT NOW NOTHING FEELS GOOD ABOUT MOTO G3, EXCEPT THAT FLIPKART DELIVERED A DEFECTIVE UNIT EARLIER THAN EXPECTED DELIVERY DATE.
+p334
+sg8
+Vnegative
+p335
+sg10
+g11
+sg12
+Vnegative
+p336
+ssI66
+(dp337
+g3
+S'1'
+sg4
+S'Poor Quality'
+p338
+sg6
+VI have got the phone on Aug 1st. \u000aBack panel is not properly fit and I found there is huge gap near to back panel . \u000aThe closing part near to camera area is not properly fit . Due that water may enter in and it give a unfinished product.There is not proper filter for the phone for speakers . Because of it dust may enter in speaker portion. \u000aNot worthy comparing to Moto G2 apart from camera . Customer who is taking the phone think and take it.\u000aSingle speaker only work . In Moto G 2 both speaker will work. Not valuable for this much amount.
+p339
+sg8
+Vnegative
+p340
+sg10
+g85
+sg12
+Vnegative
+p341
+ssI67
+(dp342
+g3
+S'4'
+sg4
+S'Good Phone but some features missing like File Manager and Music Player'
+p343
+sg6
+VHello friends this is my first time to write a review on Flipkart. First time I bought Moto g3 before this I used HTC 526G . Moto G 3 is good phone in configuration - \u000a- No lagging and no heating issue on 2 days use. \u000a- Battery backup is normal but not bad. \u000a- Camera is also good both front and back and work fine also low light with flash (Many person gives on their review camera is not good but its average) \u000a- The phoen will water resistant only when the back panel is fully fitted otherwise it may harm for device.(Dont try to dip phone inside water) \u000a- As the device screen is Gorilla Glass so it is scratch proof and you can try to scratch on your phone fearless. \u000a- The main thing is missing in this phone is file manager and Music Player. Manually download file manager from Play Store. For music player you can choose preinstalled Google Play Music but I dont like it. So I downloaded the Rocket Player.\u000a- There is no any option to enable Mobile data directly on the top scroll  \u000a- Phone sound is good and loudy because of its speaker position in front \u000a- Earphone- Just through it (Useless no bass)  \u000aOther Features\u000a- Double Shake to open flash light as torch \u000a- Double twist to open camera \u000a- You can charge 2 mobile with its charger on a single time with 2 USB cables. \u000aThese missing features I cut one star. And my advice to my co-buyers is,"Yes you can buy this phone as its price is good with these features. Don't go for Lenovo K3 Note as I found that K3 Note has heating issue and high SAR Value. There is no information on internet for Moto G 3 SAR Value. Read anywhere in Internet that the SAR value is 0.905W/kg head and 1.069 W/kg body.
+p344
+sg8
+Vnegative
+p345
+sg10
+g11
+sg12
+Vnegative
+p346
+ssI68
+(dp347
+g3
+S'2'
+sg4
+S'No H+ signal shown in any of the moto phones in lolipop'
+p348
+sg6
+Vafter use of a few weeks i found\u000a1) No H+ signal shown in 3g\u000a2) It do not captures 4G signal as it do not has the option of only 4G tower selection at a region where other 4G enabled phone captures 4G signal and show 4G or LTE \u000a3)Average temperature is 43 which futhers goes to 47degree while using internet and videos\u000a4)sometimes phone hangs while chat and calls \u000anot satisfied had lots of expectation i found moto G2 is worth buying than moto g3.
+p349
+sg8
+Vnegative
+p350
+sg10
+g18
+sg12
+Vpositive
+p351
+ssI69
+(dp352
+g3
+S'1'
+sg4
+S'Heating Issue'
+p353
+sg6
+VI bought 2 mobile for amazing design and brand however its unfortunate that the product is having access heat and without uses the temp is going up to 45 Celsius and unable to make call requested flipkart to raise request to manufacturer to resolve the issue on priority \u000aPros: \u000a1: Best design \u000a3: Super speed\u000a4: Good battery backup\u000a5: high configuration \u000aCons:\u000a1: Heating a lot\u000a2: Camera quality with flash is bad as it capture yellow image\u000a3: Poor Headphone quality
+p354
+sg8
+Vnegative
+p355
+sg10
+g11
+sg12
+Vpositive
+p356
+ssI70
+(dp357
+g3
+S'1'
+sg4
+S'Bad Luck or made Mistake of buying on offer day'
+p358
+sg6
+VSeems like WS retail holds all Damaged and returned product by customers to sell them on offers time. i had purchased moto g3(16 gb) on November 7th while Diwali offers were going on with 1k off. Got the product for price of 10798. was very happy. \u000awhen i received it, OTG was not working . initiated replacement. customer care tried to fool me on the call by saying it doesn't support OTG and all. anyways i somehow explained and convinced that it does.\u000athan when i got SECOND device. again OTG was not working. i was really feeling betrayed. again initiated replacement for 3rd time. \u000awhen i got the replacement it was quite surprising!! WS retail sent me a used device, its battery was charged to 78%(it is always 50% when new)+OTG is not Working again.  \u000ai didn't get any replacement after that. the told me that they are giving refund instead. its their flipkart return policy it seems \u000aNOTE: Same OTG cable and Pendrive i have tested on my friends Moto g3 device and it is working fine and smooth. i guess it is jus my bad luck or i madde mistake buying on offers. \u000adon't delete my review. let others know what WS retail does
+p359
+sg8
+Vnegative
+p360
+sg10
+g18
+sg12
+Vnegative
+p361
+ssI71
+(dp362
+g3
+S'2'
+sg4
+S'bad product'
+p363
+sg6
+Vnot even 10 days since i started using the phone and the phone would reboot for no reason\u000athe playstore is deleted and i cant view anything related to google now.\u000adidnt expect this from motorola. messenger would not open from task manger sometimes.
+p364
+sg8
+Vnegative
+p365
+sg10
+g85
+sg12
+Vnegative
+p366
+ssI72
+(dp367
+g3
+S'3'
+sg4
+S'Battey Issue'
+p368
+sg6
+VThis Phone Battery Time is Very Tiny and Handset is quicky warming at gaming and phone was hand when used internet
+p369
+sg8
+Vnegative
+p370
+sg10
+g85
+sg12
+Vpositive
+p371
+ssI73
+(dp372
+g3
+S'5'
+sg4
+S'Best phone in its segment'
+p373
+sg6
+VHere's my take on the phone after using it for half a day\u000a1. Battery life is gr8. Drained 3% for 22 mins of display usage. Takes 2.5 hrs for a full charge\u000a2. HD display and overall performance of the phone is very smooth\u000a3. I get 1.1G free ram with whatsapp, yahoo, avg, etc running \u000a4. Though the phone is a bit thick as per the specs, it doesn't feel so n is really nice to hold\u000a5. Browsing is really fast on wifi\u000a6. Camera quality is good. I haven't used it in all conditions though\u000a7. You'll find phones with better specs at this price but for vfm this has to be the best\u000aNeedless to mention flipkart service. I wasn't allowed 1 day delivery but still got tye phone the day after I ordered it. \u000aYou can find the most in depth review at on laptopmedia.comhttp://laptopmedia.com/smartphone-review/motorola-moto-g-3rd-gen-2015-review-the-new-flagship-in-the-mid-range.. google it. I wasn't sure if I could post a link
+p374
+sg8
+Vnegative
+p375
+sg10
+g11
+sg12
+Vpositive
+p376
+ssI74
+(dp377
+g3
+S'2'
+sg4
+S'moto g3 review'
+p378
+sg6
+Vextreme heating phone 44 degree Celsius \u000acant put it in pocket bcz of heat \u000adnt wast money  \u000acamera is okey(6/10)
+p379
+sg8
+Vnegative
+p380
+sg10
+g85
+sg12
+Vnegative
+p381
+ssI75
+(dp382
+g3
+S'5'
+sg4
+S'Very Good phone at this price range'
+p383
+sg6
+VConfiguration and Features are plenty enough. Look and feel is superb. Camera quality is perfect. Still not sure about the battery backup. Got the headset and charger with the set.\u000aVery easy to pull complete data, contacts, messages and everything from your old phone by connecting through a Moto app.
+p384
+sg8
+Vnegative
+p385
+sg10
+g85
+sg12
+Vpositive
+p386
+ssI76
+(dp387
+g3
+S'1'
+sg4
+S'Never BUY a MOTO G3'
+p388
+sg6
+VMOTO G3, suddenly my touch stopped working and network signals got jammed showing me no service. \u000ai consulted MOTO G service center(had a worst experience secundrabad branch) and he removed my tempered glass and gave it back and said that we will contact you later( no scratch on screen is observed) he called me back saying that motherboard is damaged and it will not come under warranty. \u000awe expect a good quality from a MNC like MOTOROLLA\u000a13000 for phone\u000a300 for cover of phone and \u000a250 for a tempered glass.\u000aare in sheer waste. \u000acontact me if u want more details about my experience with MOTO G3
+p389
+sg8
+Vnegative
+p390
+sg10
+g18
+sg12
+Vnegative
+p391
+ssI77
+(dp392
+g3
+S'2'
+sg4
+S'Heating Issue'
+p393
+sg6
+VHi All,\u000aI' am writing this review after usage of moto g3 5-6 days....\u000aDO NOT MISS 9th and 10th points at the end \u000a1) Built quality is just amazing, you can hold this device in phone hand (feels just like iPhone 5) (4/5) \u000a2) Finishing, and back panel are awesome.(3.5/5) \u000a3) Call quality is amazing (4/5) \u000a4) Sound quality is good (4/5) \u000a5) Display is good (4/5) \u000a6) Gaming experience on this device was okay (3/5) \u000a7) Software are good (3.5 /5) \u000a8)Camera quality is okay (3/5)  \u000aNOTE: 8.1) Rear camera is not up to the mark, as it is 13MP it doesn't feel like that,\u000apictures taken in indoor conditions are not that good. \u000aEven i compared this phone with xiaomi Mi 4i, where they also support 13MP rare camera\u000awhere picture quality is just amazing compared to this device \u000a 8.2) Front camera is average, again xiaomi wins race with this perspective. \u000aMost of you won't believe below mentioned points as moto g has created buzz in market and already well established with its brand name, but trust me this happened with me.... \u000a9) Phone has lot of heating issues \u000aUsed phone just for 15 mins, played some lower end games like Temple run and other simple games ( "not HD games") this phone got heated like anything \u000aand the worst part is that temperature is higher on touch panel compared to back panel, where it supposed to be high. (1/5)  \u000aI have done lot of research on these phone before buying this..\u000awatched many review videos on youtube ( "GeekyRanjit- youtube channel)..\u000awhere all of them said that there is not heating issue this device.. so here buyers will go wrong...think before you buy it. \u000a10)Battery life \u000aThis is the worst part with the phone, it not even last for half day in my case even i have not played any games.. just used for call purpose and battery was discharged to 50% in 2 hours  \u000aI have used 5 android phone so far, this includes moto E as well where battery capacity was less compared to G3 series of motorola..\u000aBut believe me i have never seen any phone which has this kind worst battery backup. \u000aOverall my experience with this device was average, i would rate it 2.5 on a scale of 5\u000aSo it is your option to go for this device or not. \u000aThanks for reading this review\u000aHope it helped you, and cleared your doubts about the device
+p394
+sg8
+Vnegative
+p395
+sg10
+g11
+sg12
+Vpositive
+p396
+ssI78
+(dp397
+g3
+S'4'
+sg4
+S'Moto G3 Waterproof Phone'
+p398
+sg6
+VMoto G3 Review\u000aAfter using and searching long time I put this review. (Used motog3/mi4i/k3note/zenfone/yureka+)\u000aThe review will be too much lengthy but you will definitely help to choose the phone to buy.\u000aThere was problem in phone but after getting replacement I was getting the new pack piece.\u000aPros:\u000a1. Best thing is RAM and management: If you want to use 2 GB of ram and heavy performance then definitely close ur eyes and purchase the MOTO G3.\u000a2. Internal and expandable memory: good around 11 GB is free u can install much more apps u want too like heavy graphics game and expandable memory available hence you can store ur data. If u buy phone like mi4/4i the expandable option is not available even if the performance is good aftr installing the apps where u will store ur data I say its waste of ur money\u000a3. RAM free Size: again its abt free ram size but if u compare this phone with other like mi4/4i Lenovo k3 note zenfone2( all ver) then android 5.1.1 will take around 450mb only rest of the ram will be free for apps installation. Aftr starting of the phone it will show 1.1/1.2gb of ram free. Also I install the games like BIA3 NFS Mortal Combat and Kombat Asfalt8 Candy Crush Criminal case temple run… list etc still aftr refreshment of ram it is showing me 500-700mb free size this is the perfect management by the ram on android 5.1.1 stock os\u000a4. Processor: abt processor its 1.36ghz quad core we can say somewhat decent one but to run the stock os and heavy apps n games it is good \u000a5. Heat management: now a days if u compare the phone like zenfone2 mi4/4i yureka+ k3note heating problem is freely available but compare to above one moto g3 heat management is good\u000a6. GUI and Updtaes: Its google phone so no need to chk abt Latest GUI and OS updtaes. (I am waiting for Android M 6.0) other fones we have to wait 5-6months or year to get the latest update. If you want good GUI and edit options go Zenfone any model its best in UI.\u000a7. Charging: Dual port charger with fast charging available \u000a8. Waterproof: its biggest advantages in 13k u will get waterproof (chk IPX7). I am not tested for deep or long time in the water but on tap water or small tank I was put my fone for 5 min and still it is working fine no problem. Oleophobic coating will protect fone from water.\u000a9. Lag: processor and Adreno 306, 400 MHz will support FHD games. Processer n graphics are not upto mark but I am using from last 1 month it does lag sometimes it is lag but not every time. I am playing games like asphalt8 BIA3 Mortal combat kombat nfs of FHD graphics mode but sometimes it will lag but not all the time.\u000a10. 4 G available\u000a11. Design: very good design from backside for grip (curve and strip on backside) front gorilla glass. Display is 5” hence very handy not like too big 5.5/6. Its fone not tab or fablet \u000aCons:\u000a1. Display: Poor display it’s not full HD other fones u will get FHD in the same price. Also it is 5” only not 5.5”. 294 PPI is good for compromise in display then its ok I can play fhd vdo and it is good.\u000a2. Heat problem: Like other fone it will heat somewhat but not too much like yureka+(frying pan) \u000a3. Battery problem: though good management by stock os ram and heat management 2470 mAh is not enough. I use full charge with 24/7 wifi max 8-9hrs ( apps whatsapp fb twitter mail games vdo torrent skype etc)\u000a4. Poor headphones: it is seems to 20Rs headphone also non editable equalizer in software.\u000a5. Non movable apps: os is not allowing moving of apps to external drive like fb whatsapp it is always on internal memory. For heavy apps user like me 11gb is not sufficient \u000a6. Camera: It is good but not like zenfone2 or mi4/4i\u000a7. No notification light. ( moto ambient display feature) \u000aThis is advantage or disadvantage of this fone I don’t know but aftr 2-3 days new apps update is available on play store. I suggest / I buy / I like this fone bcz of Ram management performance and latest android update (waiting for M6.0). I am not mentioned more abt Camera vdo recording and sound quality bcz it is not mandatory part if u want u can chk it on google or youtube. Before this I used Yureka+ (15days), K3note (7dyas), Zenfone2 (10days). Other than this in the same price u will get zenfone2 mi4i k3note yureka+\u000aI am not fan of Samsung n also bcz of performance I am not suggesting u Samsung J5/7 or any model.\u000aFor performance/battery go with Mi4i, Display UI Zenfone, Overall MotoG3
+p399
+sg8
+Vnegative
+p400
+sg10
+g18
+sg12
+Vpositive
+p401
+ssI79
+(dp402
+g3
+S'5'
+sg4
+S'Just one word for it. BRILLIANT'
+p403
+sg6
+VI have been using Motorola phones from way before the google intervention. I have used the DEFY for a good 2 years. Got the Moto G first gen last year, the moto x , Moto e 2nd gen and now the Moto G 3rd gen. I'm a big fan :-P\u000aWell this G is a brilliant piece of tech. 13K for such hardware is a big VFM.\u000aI wont go into ros n cons but will tell you this, if you want a budget phone with decent battery life and the capacity to work like a sportscar, look no further. \u000aGo for it.!!!! \u000aPS. 16GB variant is the one to go for. Sheel that extra 1K. Its worth it.
+p404
+sg8
+Vpositive
+p405
+sg10
+g85
+sg12
+Vpositive
+p406
+ssI80
+(dp407
+g3
+S'5'
+sg4
+S'PLEASE MOTO DONT RELEASE ANY OTHER GEN SOON..'
+p408
+sg6
+VEvery gen of e,g,x has brought a new revolution... but g3 is best till date..what u want in 13k ill just say u guys go for it......
+p409
+sg8
+Vpositive
+p410
+sg10
+g85
+sg12
+Vpositive
+p411
+ssI81
+(dp412
+g3
+S'2'
+sg4
+S'13 Mega pixel camer performance is not good.'
+p413
+sg6
+VAs i buy moto g (3rd generation) because of 13 mega pixcel camera but camera is not good.front camera is ok.
+p414
+sg8
+Vneutral
+p415
+sg10
+g11
+sg12
+Vneutral
+p416
+ssI82
+(dp417
+g3
+S'2'
+sg4
+S'back panel have some installment issue.'
+p418
+sg6
+VI have bought moto g 3rd generation, but its back central mallalic strip is not in-lined, which caused not fitting the back panel properly, the gap between strip and panel is uneven and is so much that it can be vulnerable to water easily, since the device is water resistance so the concerened area should be properly sealed. so I highly recommened other buyers to check whether thier devices have same issue or not.
+p419
+sg8
+Vnegative
+p420
+sg10
+g18
+sg12
+Vpositive
+p421
+ssI83
+(dp422
+g3
+S'4'
+sg4
+S'specs or performance'
+p423
+sg6
+Vthese days we have so many options that one easily gets confused about which one to choose. same happened to me, and after a lot of brainstorming i chose to go with moto.\u000aA friend made choice simple for me; he said "you can either opt bigger specs, or better performance...". And I chose performance. Every other phone with bigger specs had some issues with it, so moto g3 appeared best option.\u000arating it after 1 week of usage. \u000a*built quality: it appears great, ita matte finish gives it premium look. 5/5\u000a*screen: 5' is perfect for me, its handy + scratch resistant + 294ppi is good. 5/5\u000a*battery: this thing amazes me most in my phone. though i do not play any games but i continuously surf on wifi and 3g. in 6 days i have only charged it thrice- to 100%. its battery is awesome + power saving mode automatically kills power consuming apps once it power dips to 15%. 5/5\u000a*speaker: front speaker; though its mono, but loud enough. 5/5\u000a*software: now this one is tricky; however it comes with latest android 5.1 but this phone has vanilla android. Do not expect lots of customization options and settings here. this may disappoint u but i guess this is the beauty of this phone, original android experience. and for customization, u can always get apps from play store. 4/5\u000a*UI: its gud. no bloatware except some google apps. touch is awesome. 4/5\u000a*moto apps: assist, actions(gesture) and display...moto has finally migrated some of its flagship options to budget phones. moto migrate. 5/5\u000a*camera: front 5mp is awesome. rear 13mp feels mediocre. rear cam is just fine. 3/5 \u000a*****my verdict: best performer @ 13k*****
+p424
+sg8
+Vpositive
+p425
+sg10
+g34
+sg12
+Vpositive
+p426
+ssI84
+(dp427
+g3
+S'5'
+sg4
+S'best phone at 13k'
+p428
+sg6
+Vwhy it is best? \u000a1- waterproof for 3 feet for 30 minuts underwater.\u000a2- 13mp with dual flash and 5 mp front. both are best. so real image!\u000a3- 2 gb ram.\u000a3- 16gb internal. usable 11 gb. best.\u000a4- expandible 32 that makes it amazing.\u000a5- rich look, handy.\u000a6- brand MOTO\u000a7- latest android 5.1.1.\u000a8- speaker sound quality very good and loud.\u000a9- display awesome.\u000a10- most imp. it gives u very good feeling when you have it.
+p429
+sg8
+Vpositive
+p430
+sg10
+g85
+sg12
+Vpositive
+p431
+ssI85
+(dp432
+g3
+S'1'
+sg4
+S'Poor service &amp; after sales support by Motorola'
+p433
+sg6
+VFirst of all A quick review about the phone  \u000aPros:  \u000a*) Placement of the loud speaker is on the front side of the phone. Which is a very positive point in terms of phone's design.\u000a*) Phone looks decent. Quality of plastic used in the back cover is good.\u000a*) No layer on the top of Android in the form of customized UI. One gets to use clean Android UI.  \u000aCons:  \u000a*) POOR camera and picture quality.\u000a*) POOR display. Much cheaper lenovo A6000 Plus and A7000 have better displays in terms of brightness, colors and PPI.\u000a*) Gorilla glass is not really helpful. My phone just fell from 2 feet height and the glass broke into thousands of pieces. Also It was very scratch prone.  \u000aNow coming to Motorola SERVICE, \u000aIn my experience their service is really BELOW standard. Out of 35 days of having owned the phone, it has been lying on the desk of service station for more than 20 days now and still counting.  \u000aMotorola says they don't have the part(new display) available and it will take more time. \u000aPhone is not at all robust, I have used Sony, samsung phones before and none of the phones were so delicate that mere falling from hand will break their displays into pieces.  \u000aSo if you can afford to keep your phone for weeks and months in the service station. GO AHEAD with a Motorola phone. Good luck!!  \u000aAlso on contacting flipkart to help in the matter, they simply said we cant do anything here.\u000aTheir job is to just get the product monopoly and SELL.  \u000aEDIT: \u000aJust went through some of the other reviews and found I am not the only one who faced the issue. \u000aYou may go through reviews of  \u000a*) Pranav Dixit, 22 Aug 2015\u000a*) NOOR BASHA, 20 Aug 2015\u000a*) Kanthi Kiran Reddy 18 Aug 2015  \u000aAll of them are CERTIFIED BUYERS meaning they have purchased this product on Flipkart.  \u000aFlipkart will still sell the phone as an exclusive product, they don't give a damn about how is the after sales service of the product.
+p434
+sg8
+Vnegative
+p435
+sg10
+g11
+sg12
+Vpositive
+p436
+ssI86
+(dp437
+g3
+S'1'
+sg4
+S'Bad Experience from MOTO brand'
+p438
+sg6
+VHeating problem(Heating Like Hell), camera quality is not good, some black line is reflecting on screen in sun light or light.
+p439
+sg8
+Vnegative
+p440
+sg10
+g85
+sg12
+Vnegative
+p441
+ssI87
+(dp442
+g3
+S'2'
+sg4
+S'Good value but missing MUST have essential feature'
+p443
+sg6
+VOK or Average Device Sadly with lots of missing essentials\u000aFile manager missing. Really! You have to download a separate app\u000aNo separate app for Audio/Music playback. You have to connect to google Play Music with your account\u000aBundled camera app doesn't have basic modes like portrait, macros, no focusing options, etc, better download another camera app\u000aLow light photos as bad as any other phone in this range\u000aCamera quality as bad or as good as 8 mp phones\u000aWifi is slow to connect but works ok once connected
+p444
+sg8
+Vnegative
+p445
+sg10
+g18
+sg12
+Vnegative
+p446
+ssI88
+(dp447
+g3
+S'5'
+sg4
+S'camera'
+p448
+sg6
+Vcamera not best 13mp . i use xolo q1010i thise phone camera 8mp but capture best image . moto camera 13mp not well
+p449
+sg8
+Vpositive
+p450
+sg10
+g85
+sg12
+Vneutral
+p451
+ssI89
+(dp452
+g3
+S'4'
+sg4
+S'Moto G 3rd Pros and Cons'
+p453
+sg6
+VI have received the mobile today. Thanks to Flipkart for fast delivery than what usual time they promised. \u000aPros: This device is good, smooth UI.  \u000aCons: 13 Mp camera in low light is not at all great. It gives good images in day light and Flash. Headphones are average. Back cover is difficult to remove. I haven't tested 4G and gaming. \u000aMost important one thing i don't like,... Flikart told 100% Cash back and win Moto 360 for 1Rupee for Lucky customers but in terms and conditions they told it is valid entire india except Tamilnadu. People has noticed it or not i don't know, but i feel this is so silly and irrational, because all are spending money to purchase mobile but why they mentioned such worst exception for Tamilnadu state. I feel bad about it and whether i' m a lucky customer or not, ..it's not a problem but their terms and conditions are so silly and annoying. So guys be careful and whoever buy mobile based on offers please read carefully terms and conditions. I have read before i purchased and emailed flipkart but there is no modification made by them. Samsung Galaxy J5 and J7 offers are good and very useful, but these Moto G 3rd generation offers are of no use for me because i' m from Tamilnadu State and i'm already using airtel 4G sim. \u000aI request Flipkart,. please try to change or modify their terms and conditions. Because of this reason I'm removing one star. Phone wise it is good and Flipkart services are also good. \u000aThank you
+p454
+sg8
+Vnegative
+p455
+sg10
+g18
+sg12
+Vpositive
+p456
+ssI90
+(dp457
+g3
+S'4'
+sg4
+S'Planing To Buy It?? Read It !!'
+p458
+sg6
+VI have been using this phone for the last 3 weeks, and so far my experience with this phone is pretty good. \u000a- Smooth stock android experience.\u000a- Decent Battery backup.\u000a- Super cool design. A little thick though but that's all right.\u000a- Water Resistance (with the IPX7-rating).\u000a- Gorilla Glass 3.\u000a- I personally like the additional features which are CHOP CHOP for the torch and\u000a TWIST to open the camera. Quite Handy features.  \u000aWell, we all know Nothing is perfect. so, here are its little cons:- \u000a- No quick charge. the phone takes a little time to be fully charged.\u000a- The camera could have been a little better, specially in lowlight. but it is no so bad.\u000a It can take great pictures in daylight.\u000a- The expandable storage is only limited to 32GB. \u000aSo, if someone asks me, I should buy it. I would say WHY NOT?? It's a great deal for this budget. yeah, maybe some other brand may offer far more superior specification for the same price range or may be a little less. But hey, everything that looks good on the paper does not mean that it's actually that good. \u000aAND.. THE END..! this is my review of the MOTO G3.\u000aThank You for your time. Cheers!! \u000aP.S- By the time you are reading this there may be other better phones then this. Please compare before buying.
+p459
+sg8
+Vnegative
+p460
+sg10
+g18
+sg12
+Vpositive
+p461
+ssI91
+(dp462
+g3
+S'4'
+sg4
+S'excellent mobile under 15k'
+p463
+sg6
+Vfirst of-all thanks to flipkart delivering product before one day of delivering date what they have given.\u000aThumb up's:\u000a-> stylish design\u000a->good camera quality\u000a->especially water resist\u000a->audio quality good\u000a->better processing speed\u000a->battery back-up good\u000aThumb's down:\u000a-> headphones quality poor, wearing those feels uncomfortable to ears (very painful).\u000a->getting heated on mobile data usage.\u000a->"play music" application is getting struck some times.
+p464
+sg8
+Vnegative
+p465
+sg10
+g18
+sg12
+Vpositive
+p466
+ssI92
+(dp467
+g3
+S'3'
+sg4
+S'Phone is good'
+p468
+sg6
+VPhone is good as expected but the offers with phone were all fake which were used by Flipkart to sell the phone. I am amazed to see that even Flipkart with Motorola had to adopt to this fake advertisement to sell a branded phone like Motorola..Alas!
+p469
+sg8
+Vnegative
+p470
+sg10
+g18
+sg12
+Vnegative
+p471
+ssI93
+(dp472
+g3
+S'5'
+sg4
+S'Worthing buying awesome phone'
+p473
+sg6
+VI got my phone before the delivery date there rocks the flipkart. Phone is very good, camera quality is awesome, no heating problem even after playing high end games, speaker is too good. worth buying
+p474
+sg8
+Vpositive
+p475
+sg10
+g85
+sg12
+Vpositive
+p476
+ssI94
+(dp477
+g3
+S'4'
+sg4
+S"Technical Review after a month's Usage"
+p478
+sg6
+VHas been using this phone since a month, working just flawlessly..... Now we all know the specs of the phone so I am not gonna describe that, NOTE: this review would provide with detail info and would come handy to technical & hardcore users...... \u000a First some clarification regarding some features that's confusing people a lot:-\u000athe phone does have a LED notification light, which is disabled by the OEM, can be made to work by rooting,\u000aAll the gesture features work flawlessly.... i.e. moto active display, moto gesture, etc\u000asunlight visibility is good\u000asome people were concerned about the lack of sterio speakers but even single speaker does its job.\u000abattery lasts quite long, i.e.it provides SOT of upto 7.40 hours which is really good in today's world of battery dying devices.\u000aCamera lens is of nexus 6, so quality of camera is quite good in full light conditions.\u000agames like GT racing 2 works really smooth, and loading of content or components of game too is fast even on high graphics. \u000aSome things I didn't like:-\u000athe display would have been better if it was FHD, but lower reso results in better battery backup.....\u000acached data gets collected very fast, this didn't happened with earlier moto phones....\u000aOne needs very sturdy hands for best camera results due to lack of OIS.\u000aLacks gyroscope, NFC, and some other sensors
+p479
+sg8
+Vnegative
+p480
+sg10
+g18
+sg12
+Vpositive
+p481
+ssI95
+(dp482
+g3
+S'5'
+sg4
+S'Simply amazing!!'
+p483
+sg6
+VThis is my very first Moto product which I have bought after my Sony Xperia. \u000aThanks to Flipkart for faster delivery. I got it in 2 days after I placed the order.\u000aIt is more than worth for the cost you pay.\u000aDisplay clarity is awesome!\u000aShortcuts and easy view notifications without unlock is excellent.\u000aCamera quality is very good. Especially videos are sharp and stable.\u000aMobile panel design is great. Able to handle it so easily. I do not feel like I have a 5" display model. I could reach all corners of display with my thumb finger without any trouble.\u000aFinally the user interface design with Android Lollipop is excellent. \u000aOnly issue I faced is that there is a mild gap between centre strip (below camera) and the back panel. Replaced my first piece and got an another piece which also has the same issue. So I am worried if this is the actual design or its a quality issue.
+p484
+sg8
+Vpositive
+p485
+sg10
+g11
+sg12
+Vpositive
+p486
+ssI96
+(dp487
+g3
+S'4'
+sg4
+S'no magnetometer'
+p488
+sg6
+VIt is very surprising that the moto g 3rd gen does not have a magnetometer especially when the moto g 2nd gen phone has a magnetometer
+p489
+sg8
+Vnegative
+p490
+sg10
+g85
+sg12
+Vneutral
+p491
+ssI97
+(dp492
+g3
+S'5'
+sg4
+S'Worth every rupee!!'
+p493
+sg6
+Vordered on 4th night and got on 6 evening. A small suggestion is that plz let us know of the waybill number. Coming to the phone and packing I got nothing new to add, its great! Also I preferred a printed invoice, but you get one mailed ,so it's also fine. The earphones are poor though . But the quality of charger ,cable and the phone is premium...yes I mean it. Camera is a stunner! Take it out on a rainy day and shoot! impressive sound as well...also its a front facing speaker ,you wouldn't have to curve your hand over anymore :P .\u000aAfter 5 years of using different models of a particular brand , I found this refreshing and appealing . a advice to all buyers is that stop looking up spec sheets to identify the best buy!
+p494
+sg8
+Vpositive
+p495
+sg10
+g11
+sg12
+Vpositive
+p496
+ssI98
+(dp497
+g3
+S'5'
+sg4
+S'I love the user experience!'
+p498
+sg6
+VAs a techie having installed Gingerbread, ICS, Jellybean, Ubuntu, Meego, Windows Phone 7, 8 on my antique 2010 year HTC HD2 with a single core snapdragon and 512mb RAM, i always knew that the stress on SPECIFICATIONs is overrated, Most people forget the very fact that most "spec killer" phones run secondary UI's and bloatware which lead to significant loss of processor and memory efficiency thereby undermining the specifications, (for this reason i searched for ways to remove miui, vibe ui, touchwiz, etc., before buying his phone, but could not find any). so my quest for a pure blood android phone ended with Moto G3, which is a Pure Blood Android (bare bones android / stock rom / bloatware free) phone. i would not only look at the specs but also the integration and resource management of the hardware and OS, and i must say that the Motorola Moto G3 team have found the Magic Mantra. I would sum up the performance of Moto G3 in one word "Fluid!" and im more than happy with it.  \u000aThe Phone experience is Awesome!
+p499
+sg8
+Vnegative
+p500
+sg10
+g11
+sg12
+Vpositive
+p501
+ssI99
+(dp502
+g3
+S'5'
+sg4
+S'Motorola a class apart !'
+p503
+sg6
+VIf you need a phone that has a good build quality, stable and where the hardware has a perfect match with the software go with Moto G3. There are many phones in the market with better specs and will cost less compared to this one. But non can offer you the quality that this phone offers. Its just awsm. \u000aFew months ago i brought Lenovo A600 for my Dad and it was a really good phone. But when compared to mine Moto G3 it looks like a waste of money. Moto G3 is butter smooth while handling any task, no lag what so ever. Feels good in hand and gives a premium experience in public. \u000aFor people who are saying that the camera of moto g3 is not good, pls go and get a bit trained on how to click pics. By default the primary camera is running on 9 MP, goto settings and change it to 13 MP and see the magic. There is a option that lets you focus and adjust the exposure of the camera, basic but does the job inside the camera settings.. \u000aEven after that if you are struggling, then search google for CameraZoom FX app, you can get the pro version (if u know what i mean) for free, its one of the best app for camera. \u000aOverall I had a good user experience with this phone since the past couple of days. I hope moto gives it a timely update and keep making better phones.
+p504
+sg8
+Vnegative
+p505
+sg10
+g85
+sg12
+Vpositive
+p506
+ssI100
+(dp507
+g3
+S'5'
+sg4
+S'Best Mobile'
+p508
+sg6
+VHello everyone,\u000aFirst of all I would like to say that I don't normally waste my time writing a review, in fact this is technically not a review but my honest opinion about the phone. I am going to refrain from praising flipkart (Oops!) in this, and I will simply write down my thoughts on the parameters which matter to me as follows (Pros or Cons you decide!):\u000a1. The phone is a 5", which is a perfect fit for my pocket (Always hated my HTC 826 for its size among other things.)\u000a2. The phone has a hardy and rugged look and I feel it is a good companion for my daily use. Gorilla glass and water proof coating is the icing on the cake.\u000a3. I listen to a lot of music and read books/news and browse on my phone and often find my phone running out of juice easily. This phone despite having a 2470mAh battery, lasted my torments quite long and still it is at 55%. Now that's one adamant little thing.\u000a4. I don't really miss the lack of notification LED, in fact it's better this way. I always found that flashing light annoying.Moto display is good enough for me.\u000a5. Lack of bloatware and forced installed factory apps unlike Asus Zenfone, HTC (dammit ZOE!) makes it even more sexier. The phone's UI feels smooth and fast due to stock Android.\u000a6. Last but not the least, I need at least one 4G connection for my data usage. The other one for calling. The purpose is served, so I am happy.\u000aSo those are my views based on my requirement. Hope someone will find it useful in making an informed decision.\u000aRegards
+p509
+sg8
+Vnegative
+p510
+sg10
+g18
+sg12
+Vpositive
+p511
+ssI101
+(dp512
+g3
+S'3'
+sg4
+S'Good Mobile but beware of the screen'
+p513
+sg6
+VThe New moto G with its specification and features is indeed a very good phone but I would like to point out some specific issues with the screen.2 stars less for this.\u000aI am using a 1st Gen Moto X, few months ago I got Grand max for my sister and recently gifted this mobile to Father in law, so here goes..\u000aThe screen feels dull due to its low sharpness and colour saturation, compared to grand Max, also I noticed fine mesh type pattern of diagonal lines(not pixels) viewed up close, which is not there with above phone screens.this is visible whether its the UI or a video. \u000aAlso under sunlight, when screen is off the coarse pattern of the touch screen digitizer (vertical lines from top to bottom containing small horizontal lines ) is visible.\u000aAll these observations point towards an slightly inferior grade display compared to above.\u000aSo if want a really Good display, better look at other options. \u000aPros: everything except Display/screen\u000aCon: Poor display
+p514
+sg8
+Vnegative
+p515
+sg10
+g85
+sg12
+Vnegative
+p516
+ssI102
+(dp517
+g3
+S'5'
+sg4
+S'Moto G 2015 - The good and the bad'
+p518
+sg6
+VI upgraded from the Moto G 2013. So, it was a big upgrade for me. Specifications are everywhere, so skipping directly to the good parts :\u000a1. Camera - Same as on Nexus 6. One of my friends saw the phone and said - Huh, Moto cameras are always bad. he clicked a photo with my phone and he is amazed ever since. Also, although the front camera does not have a flash, still when you put the flash on and click, the screen flashes and the camera takes in as much light as possible. I managed to get my face, legible, in a completely dark room. Pretty cool, right ?\u000a2. RAM - Straight to 2 GB. Snappier, faster and no lags due to this.\u000a3. Battery - Completely charged at 4 PM the day before and have been fiddling hard ever since (including heavy gaming for 2 hours). The charge at the time of writing this is still 40%\u000a4. Charger - I was worried that it will take 4 hours for full charge. But it did not. 35% to 100% in 1.5 hours. So, fast charger I suppose. Added benefit of 2 USB ports on the charger. \u000aCompletely satisfied with the phone. My rating is solely for the product and not for flipkart. Although not happy with flipkart. Launch day offers are 7 in number. I bought it at 12:11 AM on the launch day. Still I got only 3 offers, all of them worthless. Would be happy if I receive the remaining offers too.
+p519
+sg8
+Vnegative
+p520
+sg10
+g11
+sg12
+Vnegative
+p521
+ssI103
+(dp522
+g8
+Vpositive
+p523
+sg3
+S'5'
+sg4
+S'just beyond k3 note and zenfone 2'
+p524
+sg12
+Vpositive
+p525
+sg6
+Vafter my 2 days experience with moto g 2015 i am so happy to write this.great design and stylish look provides very comfort on hand.nice cameras especially the front camera.this phone really got many changes from 2nd gene.really worth for the money.this is going to be the best phone of 2015.never be confused on purchasing it.
+p526
+ssI104
+(dp527
+g3
+S'1'
+sg4
+S'Heating issue - Moto G3'
+p528
+sg6
+VHeating issue with Moto G 3rd generation\u000aHeating or radiation issue noticed while keeping in pocket. \u000aI am very disappointed with heating issue. Contacted customer, they are not ready to return or replace the mobile, even though they put replacement as it has 30 days warranty. Now they are telling so many cons. I am totally disappointed with Flipkart. Now Flipkart started cheating with customer. I was a big fan of flipkart to buy any thing. Now i have decided to stop buying anything from flipkart.  \u000aAll the best Flipkart :)
+p529
+sg8
+Vnegative
+p530
+sg10
+g11
+sg12
+Vnegative
+p531
+ssI105
+(dp532
+g3
+S'1'
+sg4
+S'Worst phone i have ever had'
+p533
+sg6
+VGood in on time delivery by FlipKart. But Moto slips in trust, It is heating if you take 10 photos continuously itself.
+p534
+sg8
+Vpositive
+p535
+sg10
+g18
+sg12
+Vpositive
+p536
+ssI106
+(dp537
+g3
+S'1'
+sg4
+S'not satisfied'
+p538
+sg6
+Vthis cell is not good as much other screen resolution,media not supported all type of format.pic clearty also not good and filpkart not given 4g sim card.
+p539
+sg8
+Vnegative
+p540
+sg10
+g11
+sg12
+Vnegative
+p541
+ssI107
+(dp542
+g3
+S'1'
+sg4
+S'Overall a nice phone - But Music Player freezes and the phone suddenly looses network for 1 hour'
+p543
+sg6
+VPros: \u000aThe Moto G3 is an awesome phone. It fits just right in ones palm and also in the trouser pocket.  \u000aCons:  \u000a1. I got a brand new white MotoG3 about 3 weeks ago. Everything was fine but only for 4 days. On the 5th day, sometime in the afternoon, suddenly there was no network on the phone and I could not make an urgent call. After rebooting the 3 times it worked and I got a dozen text messages notifying me about the missed calls. I thought it was a SIM problem initially and it happened again on the second day and this time the network wouldn't come back even after 4 hours. It happened the third day too. I took out the SIM to see if it was fine and it was working just fine in my old phone and another phone too. \u000aFrom the past 2 days, the network seems connected but people are unable to reach my number and the IVR notifies them that my number is out of coverage area / not reachable and then I get texts that the conatcts have tried reaching me and it is a missed call.  \u000a2. The Music Player is even stranger!! I was listening to my favourite songs and suddenly the song paused, the phone was locked and there is no way I could have paused it. It paused automatically for about 15 seconds and then took off from there. I shut the phone down and powered it back ON after 15 minutes, thinking it will fix the issue. After listening to another 4-5 songs another song got stuck in the exact same way yet again. The Video Player does not play videos if you are sharing that particular video or uploading it on Whatsapp/Backup, etc.,  \u000aI regret taking the phone now and I should have stuck to my decision of taking a Samsung A7 or a Samsung A8. At least they don't have such fundamental problems. Apart from hanging once in a month or so, Samsung phones work just fine.  \u000aI may be faced with a dire emergency and I will desperately have to call someone and what if my phone does not have network - I am F***ed.  \u000aI have sought replacement for this phone ; I sincerely hope the new one works fine !!! :(
+p544
+sg8
+Vnegative
+p545
+sg10
+g18
+sg12
+Vnegative
+p546
+ssI108
+(dp547
+g3
+S'2'
+sg4
+S'plz not purchase it, till it is not perfect'
+p548
+sg6
+Vover head.......they give me white charger and headphone with black motog3 mobile.it heated too much within half hour
+p549
+sg8
+Vnegative
+p550
+sg10
+g85
+sg12
+Vnegative
+p551
+ssI109
+(dp552
+g3
+S'2'
+sg4
+S'simply best'
+p553
+sg6
+VIt's nice phone, very less weight ,easy to hold ,\u000alooking the cost wise it's high\u000arate should be reduce.
+p554
+sg8
+Vnegative
+p555
+sg10
+g85
+sg12
+Vpositive
+p556
+ssI110
+(dp557
+g3
+S'1'
+sg4
+S'Poor Quality not as expected from motorola'
+p558
+sg6
+VHeating problem, camera quality is not good, all pics are showing yellowlish, network problem. some black line is reflecting on screen in sun light or light.
+p559
+sg8
+Vneutral
+p560
+sg10
+g85
+sg12
+Vnegative
+p561
+ssI111
+(dp562
+g3
+S'1'
+sg4
+S"Don't Purchase"
+p563
+sg6
+VMoto G 3rd Generation problems\u000a1. Phone Heating\u000a2. Hanging\u000a3.Call voice clearance low\u000a4.Less battery back up
+p564
+sg8
+Vnegative
+p565
+sg10
+g85
+sg12
+Vpositive
+p566
+ssI112
+(dp567
+g3
+S'1'
+sg4
+S'moto g3 worst 3/5'
+p568
+sg6
+Vi have used for only 3 days Tuchscreen hang when use 3g data .display 3/5 .battery 4/5 camera 3/5 . speaker 3/5 . moto g2 best compare to moto g3
+p569
+sg8
+Vneutral
+p570
+sg10
+g85
+sg12
+Vpositive
+p571
+ssI113
+(dp572
+g3
+S'1'
+sg4
+S'defective product'
+p573
+sg6
+Vdear friends i bought this product it is defective & gets too much over heated.do not buy this & go go for lenevo better than moto
+p574
+sg8
+Vnegative
+p575
+sg10
+g85
+sg12
+Vnegative
+p576
+ssI114
+(dp577
+g3
+S'1'
+sg4
+S'great phone in the budget'
+p578
+sg6
+VThe phone has nice look and it is waterproof. I don't know why they are advertising 32gb card support. I put in a 64gb card and it is working. The phone is reading all the space in 64 gb card.
+p579
+sg8
+Vpositive
+p580
+sg10
+g85
+sg12
+Vpositive
+p581
+ssI115
+(dp582
+g3
+S'5'
+sg4
+S'Looks Cool'
+p583
+sg6
+VThanks for fast flipkart service! but I paid extra 90 rs for I day delivery. The new look and features makes moto g coooool!
+p584
+sg8
+Vpositive
+p585
+sg10
+g85
+sg12
+Vpositive
+p586
+ssI116
+(dp587
+g3
+S'1'
+sg4
+S'Worst glass'
+p588
+sg6
+VEvery thing is fine except Glass when it drop from 2 feet height total glass has gone two days back gave in service center they saying it costs 6000 i took this phone my friend now he is unsatisfied ( glass cost saying 6000) what is this ???????? \u000aNo Guaranty For Glass ????????? then what for 1 year Guaranty !!!!!!!!!!!!!!!!!!!!!!! \u000aIs there any alternative phone for him now\u000a1 week back we went to service center they said no spare parts to this model WHAT TO DO NOW......................................10.09.15
+p589
+sg8
+Vnegative
+p590
+sg10
+g85
+sg12
+Vpositive
+p591
+ssI117
+(dp592
+g3
+S'1'
+sg4
+S'problem while using whatsapp its hangs up !!'
+p593
+sg6
+Vi have buy a new moto g3 2 days before but today its hangs up and i cant understand what to do? \u000athen i will use the hardware reset to off moto g3 ....then it will started i don't know why i am getting these problems....
+p594
+sg8
+Vneutral
+p595
+sg10
+g85
+sg12
+Vnegative
+p596
+ssI118
+(dp597
+g3
+S'5'
+sg4
+S'Go for MOTO G3!!! Cool !!!'
+p598
+sg6
+VTalking about Moto G3 is one of the best mobile under 15K in this frequently changing mobile world, \u000aTime has come to get experience of Moto G3. Awesome battery life, easy to grip, good sound quality.\u000aCool !!!
+p599
+sg8
+Vpositive
+p600
+sg10
+g11
+sg12
+Vpositive
+p601
+ssI119
+(dp602
+g3
+S'5'
+sg4
+S'Great experience!!!!!!'
+p603
+sg6
+VI bought this phone on the first day when it was launched. Love the design and build quality.\u000aIts far better than other phones in this price range. Very satisfied with my purchase.Thanks to FLIPKART for their fast delivery.
+p604
+sg8
+Vnegative
+p605
+sg10
+g11
+sg12
+Vpositive
+p606
+ssI120
+(dp607
+g3
+S'1'
+sg4
+S'Good Phone except for missing features from Moto G 3Gen'
+p608
+sg6
+VI wan't to record some missing features with the latest Android OS. The Android Lolipop OS:\u000a - Doesn't allow you to select multiple contacts or remove multiple contacts at once\u000a - It won't allow you to Purge Duplicates from Contact list\u000a - Sending Contact Card - won't allow you to send/share a contact via your regular SMS/Text Messaging. It will always want you to have Data/internet connection and will send a contact card only MMS. \u000aPhone is value for money, but I believe Moto should take care of these missing features to enhance the experience. \u000aLastly with this purchase, I got a free SIM which should ideally have a 20 digit Number for one to be able to swap with existing SIM, but ironically the SIM has only 19 digits. This free SIM supposedly should be swapped with my existing SIM to activate the double data plan offer with the handset Moto G 3rd Gen which is a bundle offer. I have requested for a SIM replacement.
+p609
+sg8
+Vneutral
+p610
+sg10
+g85
+sg12
+Vnegative
+p611
+ssI121
+(dp612
+g3
+S'4'
+sg4
+S'Nice upgrade from g2 to g3'
+p613
+sg6
+VEvery thing seems good except the back panel it is not a rubber type finish like the one in g2, does not really feel that great in hands.
+p614
+sg8
+Vnegative
+p615
+sg10
+g85
+sg12
+Vnegative
+p616
+ssI122
+(dp617
+g3
+S'1'
+sg4
+S'Regret buying from flipkart'
+p618
+sg6
+VDelayed service, low customer service, delivery man rude behaviour, no manners to speak, overall never buy from flipkart
+p619
+sg8
+Vnegative
+p620
+sg10
+g85
+sg12
+Vnegative
+p621
+ssI123
+(dp622
+g3
+S'2'
+sg4
+S'Its not Moto G 3rd gen, Its Moto E 3rd gen'
+p623
+sg6
+VAnother downgrade from Moto G 2nd gen which was already a let down from Moto G 1st gen which was a Champ when launched. Everytime, a next generation of any gadget comes, people expect some upgrades will be there. But Moto G series is completely opposite. I still remember when Moto G 1st gen announced, It was a like a dream specs in very affordable price, That phone actually changed the smartphone market particularly in India, Every other company marched with their phones to challenge the classic Moto G, and lost the battle :) \u000aMoto G 2nd gen was announced last year, With a downgrade in display. Same chipset and memory. Only improvement was the camera and SD card option. Battery was also the same as 1st gen. \u000aMoto G 3rd gen, which I got this evening, Backpanel is very slippery. Be careful while holding it. Feels heavier than 2nd gen. Display is same as 2nd gen. But I felt some mild yellow tint in the display. 2GB memory is very good upgrade. But nothing else really. SD410 chipset is already on Moto E 2nd gen which costs 7k. Motorola should've deployed SD610 or 615 to differentiate moto G from E, Benchmark ratings are very near to 2nd gen Moto E. Battery also same as Moto E. We have to pay nearly twice the amount only for the improvement in Camera. I'm really disappointed.  \u000aCons: \u000a1. Same display as 2nd gen. Rivals gives full HD panels for the same price range.\u000a2. No stereo speakers as 2nd gen, another downgrade.\u000a3. Feels heavy than 2nd gen. and very slippery too.\u000a4. Front cam lacks color reproduction. I compared with 2nd gen hands on. 2nd gen excels in color rendering. 3rd gen looks flat.\u000a5. Same chipset as moto E which costs for half the price.\u000a6. 13k price is huge for this specs. Should be near 10k. \u000aPros: \u000a1. 2GB memory is welcome addition.\u000a2. Battery is 20% larger which is great. \u000aI really don't recommend this phone if you're having moto G 1st gen or 2nd gen.
+p624
+sg8
+Vnegative
+p625
+sg10
+g11
+sg12
+Vpositive
+p626
+ssI124
+(dp627
+g3
+S'3'
+sg4
+S'Not satisfactory product !!!'
+p628
+sg6
+VI am using this Moto g3 from last week it's not upto the satisfaction.\u000a1. Battery Backup is average.\u000a2. It is havin heating issuu temp crosses 48.5 c simply when connected to 3 g network.\u000a It;s difficult to hold in hand and use for calling.\u000a3. As per Flipkart experts i reset the phone and installed only whats app sill temp is 45 c .\u000a Willing to replace the product.
+p629
+sg8
+Vnegative
+p630
+sg10
+g11
+sg12
+Vnegative
+p631
+ssI125
+(dp632
+g3
+S'4'
+sg4
+S'Perfect phone for me.'
+p633
+sg6
+VI am an average user. All i wanted was good battery, display and music quality. Also i wanted no lags in my tasks. This is b=the best phone for those who want a good user experience. The stock android is also beautiful and as expected, very fast. \u000aPros:\u000a1. Design (i have black)\u000a2. No lags\u000a3. Display\u000a4. Battey (average to high) \u000aCons:\u000a1. None for me \u000aI recommend this phone who want good battery life, display, internet usage and music.
+p634
+sg8
+Vpositive
+p635
+sg10
+g11
+sg12
+Vpositive
+p636
+ssI126
+(dp637
+g3
+S'1'
+sg4
+S'Gud product with fake airtel promise'
+p638
+sg6
+VWriting this review after using it for one week. Really gud experience, smooth touch response moto g satisfies its promises. Disappointing thing is Airtel double data offer. They wont give u double data offer as promised. Airtel is fooling their customers. No issues with the product and delivery. Battery will last for whole day. one star only for airtel
+p639
+sg8
+Vnegative
+p640
+sg10
+g11
+sg12
+Vnegative
+p641
+ssI127
+(dp642
+g3
+S'1'
+sg4
+S'worst delivery ever'
+p643
+sg6
+Vexpected date of delivery is on 10th august ..\u000abut product not reached on that day so i called up to courier for information whta they said is that we are unable to locate your address ....and then i compalint about flipkart and blue dart courier service than on next day in heavy rain they ran and came to me with product....worst service ever by flipkart and that is also in delhi....and if i want to rate for mobiule it is very good with 5 stars and for service i will rate 0/5...
+p644
+sg8
+Vnegative
+p645
+sg10
+g85
+sg12
+Vpositive
+p646
+ssI128
+(dp647
+g3
+S'1'
+sg4
+S'Worst Moto G Phone Ever'
+p648
+sg6
+VPhone Heats a lot.Please Dont Buy This Phone .The Phone Heats Quickly when Using Camera More Than 2 Minutes.the device temperature reaches 45 degree celsius within Minutes
+p649
+sg8
+Vnegative
+p650
+sg10
+g85
+sg12
+Vnegative
+p651
+ssI129
+(dp652
+g3
+S'1'
+sg4
+S'Phone quality is not good'
+p653
+sg6
+Vhanging problem, sometimes it does not recognise touch, problem in swiping the phone to unlock, don't buy this one
+p654
+sg8
+Vnegative
+p655
+sg10
+g85
+sg12
+Vnegative
+p656
+ssI130
+(dp657
+g3
+S'4'
+sg4
+S'Awesome Phone, Awesome price!'
+p658
+sg6
+VFirst of all thanks for flipkart for the flat 2k off deal under which I purchased it. The delivery was timely, and no qualms on that front at all. \u000aNow coming to the phone, it is just great! I have used many a different phone, almost from all manufacturers, and Motorola deserve an applause for making this phone.  \u000aThe design is sturdy, display is great though it is 720p (with the advantage it doesn't kill your battery like the 1020p's), call quality is good, camera is great. Best part of the mobile is the battery life, because even though 2470 mAh look less on paper, the mobile actually pulls a day with active browsing and occasional games. And this is possible because it doesn't have a power hungry display and processor (the snapdragon 410 does a good job than the 615 on its sibling moto g turbo which is plagued with battery and heat issues). \u000aSo overall, a nice job by Motorolo in chosing the hardware, and keeping the price competitive. Only complain I have with Motorola is not giving the buyer in India the option to customize the phone, like in US, but I understand they have partnered with flipkart as their sell channel, so I can live without it :D  \u000aGo for it guys, this is the best phone you can get in this price range!
+p659
+sg8
+Vnegative
+p660
+sg10
+g34
+sg12
+Vpositive
+p661
+ssI131
+(dp662
+g3
+S'1'
+sg4
+S'Worst Delivery Service By Flipkart... Very Disappointed.'
+p663
+sg6
+VHi All,\u000aDon't purchase anything from flipkart, they have worst courier service, I ordered another moto g 3rd generation from this site, after 3 days i got message from AM-EKARTL that your order is out for delivery and it will be delivered by today 7:00 PM. I waited that day till 8:00PM but neither they came nor they called. again this thing happen after 2 days I waited but no luck, delivery boy didn't came this time also. this was happened 3 times. after that I Called Flipkart Customer Care No. and I explain full story then he assured that sir your order will be delivered by tomorrow any how, he also resister a complain regarding this, complain no. is IN1512311837538731328. And after sometime I got message from Flipkart in which they mentioned that "Order Rejected:Your Moto G with tracking ID: FMPP4273397694 has been marked as Customer rejected by your Ekart delivery executive". I have done lots of shopping from flipkart previously costing mothan 1 lac rupees but now a days flipkart service worst in rest of the e commerce companies. this time I am very disappointed from flipkart. Now and onwards neither i will do shopping on Flipkart no suggest to anybody else to do so.
+p664
+sg8
+Vnegative
+p665
+sg10
+g11
+sg12
+Vnegative
+p666
+ssI132
+(dp667
+g3
+S'1'
+sg4
+S'EXTREMELY BAD SERVICE'
+p668
+sg6
+VDefective item recieved . extremely poor customer service . replacement still not recieved above 2 months waiting time . annoyed
+p669
+sg8
+Vnegative
+p670
+sg10
+g18
+sg12
+Vnegative
+p671
+ssI133
+(dp672
+g3
+S'5'
+sg4
+S'Moving on from YU YUPHORIA(Rs 7000) to MOTO G3(Rs10,800)'
+p673
+sg6
+VI have bought MOTO G3 one month back with Rs1000 moto offer and 10% sbi card offer... \u000aAfter one month of usage I have found the following:\u000a"""""""""+'ves"""""""""\u000a1) I have changed from yuphoria which has a configurable software to moto g3 pure android.\u000aThe android is more stable and very very less troublesome than Cynogen OS12.\u000a2) Gestures and accelorameter + proximity sensor screen unlock makes your life more easy.\u000a3) Battery in the phone is really great but charging time is comparative more compared to other mobiles.\u000a4) Display is good and lag free, music player audio quality is great boon in this mobile and \u000aCall quality in MOTO g3>>>>>>>>>>>>>>>>>>>>>>>>>Yu yuphoria\u000a5) Games are lag free and the the touch is Awesome with a capital 'A'.\u000a6 ) Bugs are very few in number.\u000a7) build quality is so good so u keep holding to it and never drop on the floor. \u000a""""""""""""""""""""-' ves""""""""""""""""""""""""""""""""""""\u000a1) Found a bug as the scrooling keeps on going infinitely without end.\u000a2) 700Mb extra memory of 11.81 GB internal Memory get taken by OS again..\u000a3) Slightly heavier than other mobiles.\u000a4) button response and changing song is button press of headset is slightly tougher\u000a------------------------------------------------------------------------------------------------------------------\u000aIn one line go for it if u want a reliable handset with satisfactory spec and great performance. \u000a" Never buy YU yugolavia yuphoria like yu stupid so called brands and waste 7 to 9 k on it people"
+p674
+sg8
+Vnegative
+p675
+sg10
+g34
+sg12
+Vpositive
+p676
+ssI134
+(dp677
+g3
+S'4'
+sg4
+S'Moto G - 3rd Gen - Ultimate phone'
+p678
+sg6
+VI purchased Moto G3 for my dad recently. Here is my review of the phone: \u000aPros:\u000a1. Phone build is solid, feels good to hold\u000a2. 5 inches screen\u000a3. Phone does not heat up much\u000a4, Camera is Excellent, even low light photographs come out very good\u000a5. No lag whatsoever, no bloatware, no extra apps pre-installed. OS is very smooth\u000a6. 2 GB RAM and 16 GB Internal memory sdcard\u000a7. Audio and Video quality is very good\u000a8. Audio volume is quite loud, songs quality via headset is good too.\u000a9. 2470 Mah battery is little bit lower than expectation, but good enough to last whole day with medium usage\u000a10. call quality is good \u000aCons:\u000a1. there is a yellowish tint on the display but it does not dilute the smartphone experience\u000a2. No option to install apps directly on sdcard\u000a3. default camera app is not very good, I used MXCamera which clicks stunning photographs \u000aI would highly recommend this phone - as it is complete value for money!! Go for it.
+p679
+sg8
+Vnegative
+p680
+sg10
+g34
+sg12
+Vpositive
+p681
+ssI135
+(dp682
+g3
+S'5'
+sg4
+S'excellent phone'
+p683
+sg6
+VMoto g 3rd generation 1. camera quality awesome\u000a 2.HD display looking great\u000a 3. No heating problem\u000a 4. Android running smoothly\u000aOnly one minor problem -to enable/disable mobile data you have go to setting .\u000aAnd the last thing Flipkart delivery was excellent with in two days .
+p684
+sg8
+Vpositive
+p685
+sg10
+g85
+sg12
+Vpositive
+p686
+ssI136
+(dp687
+g3
+S'1'
+sg4
+S'Flipkart Selling Defective Piece'
+p688
+sg6
+VBought 16 GB, 2GB Ram, White Color Version, had some Display problem, (finger print smudge in the display).\u000aRequested for replacement got got replacement piece in 3 days.\u000aReplacement piece is also defective, filter like transparent shield is missing on the earpiece(top speaker grill area).\u000aAnd found some sticker is pasted on the earpiece, which is not properly pasted,\u000aDue to that when I call someone, ring sound is very horrible and i cant able to keep the mobile close to my ear. And audio quality is earpiece is most of the time is not audible(very crunchy).\u000aThen again requested for the replacement, but they declined it for 2 times.\u000aThen went to moto service centre, the checked the mobile, they found the earpiece defective.\u000aThen again requested for the Replacement, but the refused to give replacement and gave refund.\u000ai am absolutely disappointed with the flipkart. \u000aFrom this incident i am having doubt whether flipkart selling 100% new product or they selling used or refurbished piece. \u000aRecommendation for the Flipkart Buyers : Buy the mobile from flipkart within 1 month from the launch date, else wait for the new model to launch or just forget the flipkart buy it from retail store. \u000aI won't recommend flipkart to my friends and relatives.
+p689
+sg8
+Vnegative
+p690
+sg10
+g18
+sg12
+Vnegative
+p691
+ssI137
+(dp692
+g3
+S'5'
+sg4
+S'Nice phone. first time android user'
+p693
+sg6
+VThis is the first android phone I have bought after using Windows Phone for last 6 years. I am still trying to get hold of the new UI and I know its going to be a learning curve. \u000aThe phone has nice features and looks premium. The kind of camera quality at this price point is a big plus. \u000aI don't have any complaints apart from the android UI which still has miles to go before it becomes as clean and intuitive as Windows phone.
+p694
+sg8
+Vnegative
+p695
+sg10
+g11
+sg12
+Vpositive
+p696
+ssI138
+(dp697
+g3
+S'2'
+sg4
+S'dont go for it'
+p698
+sg6
+VListen all,those so ever want to buy it,i will say dont go for it.13000 bucks for an average product.list of problems which i face-\u000a1}My phone screen got broken,nowhere the screen is available,nor in moto service centre nor on flipkart..These companies just wanna sell phones,then has no service,it has been more than 2 months still got no answer from moto for parts\u000a2}Overall an average phone,the Moto stupid company didnt provided Autofocus in it.\u000aI am an professional photographer also,if u wanna take a zooming pic clearly not possible,u cant focus anything,if u wanna click a pic of thing which is in ur hand,u cant bcoz of no autofocus.\u000aIf u will go for it,beware that camera is not at all good as 13 megapixel and u can preassume no warranty or service,bcoz if ur phone goes will any defect,normal mobile reailers cant repair it so u will have to approach service centre for any problem,and my experience says,it takes more than 2 months time in the service centre for any phone of companies like moto,lenovo,oppo etc.\u000aSo,if u wanna go for phones of these companies,u will have to preassume,no service anywhere,but if the launched date of phone is 6-7 months,u might expect service in a shop..or else no service,2 months still the phone is getting repaired doesnt suggests any service.. \u000aservice centre says tht moto has not yet launched the parts of this phone,which is shocking,its 3 months the phone has launched and company just wants to sell phone,no parts in case of any problem, \u000aSo think twice before going to these kind of phones,otherwise not bad phone either
+p699
+sg8
+Vnegative
+p700
+sg10
+g34
+sg12
+Vnegative
+p701
+ssI139
+(dp702
+g3
+S'4'
+sg4
+S'Awesome Phone'
+p703
+sg6
+VIt is a best buy phone for this much price.\u000aall features are fine.\u000acamera capturing is awesome.\u000aspeed up your life with this.\u000ai am first time using Motorola phone and trust me i feel awesome for this. \u000ago for it!! \u000ajust one ISSUE,i am not able to remove google search box from my home screen.\u000ais this for all Motorola phones ? or we can remove it?\u000aIf any one one knows please let me know.your all true feedback are valuable for me.
+p704
+sg8
+Vpositive
+p705
+sg10
+g18
+sg12
+Vpositive
+p706
+ssI140
+(dp707
+g3
+S'5'
+sg4
+S'Best phone u can buy sub 13k'
+p708
+sg6
+VI own a motorola g2 and after having the best android experience of my life when it was time to buy a budget phone for my sister i looked no further than motorola. Oh yeah it is that good. I wasn't bothered about the review online or on youtube because they all tell a different tale. Trust me what i learned is everyone's perspective and POV when reviewing a product if different, so don't be fooled by reviews.  \u000aPro's\u000a1) Ample of ram \u000a2) No bull crap installed it's as minimal as it gets.\u000a3) Good Camera and Better battery life than the past generation.\u000a4) It has been said a million times but the UI is best and fluid on phones on this range. No stupid customizations like the zen fone or lenovo. ( i don't even consider phones by xiaomi or others as worth buying unless u wanna try ur luck)\u000a5) Crystal clear sound (calls as well as media) and the design is fantastic, it feels premium not plastic like a zenfone, its a joy to handle. \u000a6) IPX 7 Water resistance. \u000aThe charger can charge 2 devices at once. rated at 1100 mah \u000aTHIS PHONE IS BEAUTIFULLY PUT TOGETHER IN TERMS OF HARDWARE AS WELL AS THE SOFTWARE. IT IS SO WELL OPTIMIZED YOU WONT FEEL THE NEED TO ROOT IT.
+p709
+sg8
+Vnegative
+p710
+sg10
+g34
+sg12
+Vpositive
+p711
+ssI141
+(dp712
+g3
+S'1'
+sg4
+S'Supposedly Gorilla Glass. Now cant be replaced. Stuck'
+p713
+sg6
+VThe screen is hardly gorilla glass. The phone slipped out of my hand.. fell and the screen just got shattered.. quite literally with small splinters of glass actually jutting out. As if the screen was a cheap piece of glass.  \u000aAnd now i am stuck with this phone as no Motorola service center in the whole of Delhi NCR has a screen to replace. Everybody is just saying - leave the phone with us and we will give it back whenever we get the screen from the company. I don't know what to do now. Buy a new phone or try and work with a absolutely broken screen.  \u000aAn indication of the price about the screen is about 6K which is about half the cost of the phone itself.  \u000aSo imagine the phone dropping and 50% of the phone is gone.  \u000aNot cool at all.  \u000aI just hope somebody does something about this.
+p714
+sg8
+Vnegative
+p715
+sg10
+g11
+sg12
+Vnegative
+p716
+ssI142
+(dp717
+g3
+S'1'
+sg4
+S'Fake Gorrila Glass'
+p718
+sg6
+VI purchased my phone just more than a month back..and it fell once from my hand and the screen is already cracked!! wasn't the screen supposed to be a Corning Gorilla Glass 3???? a very sturdy glass?\u000athe phone is a complete waste if it is soo fragile with such good specs! \u000amy hopes for moto are all gone!
+p719
+sg8
+Vnegative
+p720
+sg10
+g85
+sg12
+Vnegative
+p721
+ssI143
+(dp722
+g3
+S'3'
+sg4
+S'scrolling problem, cam is poor'
+p723
+sg6
+Vdefect is the screen scrolls on its own when u tap it, not always but most of the times , this problem is with all moto g3, i had to change two moto g3 to find out this problem, and the camera is very bad, it is not like 13 mp, for name sake it is 13mp, doesn't feel like one. front cam is also bad. flipkart service is awesome that they refunded my whole money back. thanks for that.
+p724
+sg8
+Vnegative
+p725
+sg10
+g85
+sg12
+Vnegative
+p726
+ssI144
+(dp727
+g3
+S'2'
+sg4
+S'It has some Hardware issue think before buying it!'
+p728
+sg6
+VI Purchased it from flipkart on 22nd Aug'15. I am using it around 2 months.\u000aFirst of all touch of the device is smooth like butter performance is good, Camera in low light is very poor but Now Power button of my device is not working properly. I went to service center, they told me that need to change the mother board for power button. it will take 1 month. so I think hardware is not good (In my case). Sometimes heated badly. hang sometimes when call coming. So Think before buying it because service is very poor. I called to Flipkart they told me our warranty is 30 days and you have to go to the Service Center.
+p729
+sg8
+Vnegative
+p730
+sg10
+g85
+sg12
+Vnegative
+p731
+ssI145
+(dp732
+g3
+S'1'
+sg4
+S'phone OK but accessories are of worst quality'
+p733
+sg6
+Vaccessories are of the worst quality one can imagine. phone also does not live up to the mark in terms of performance. Front Camera hangs while taking a picture, Battery backup is good.  \u000a overall not a was not a worthy buy for me
+p734
+sg8
+Vnegative
+p735
+sg10
+g85
+sg12
+Vpositive
+p736
+ssI146
+(dp737
+g3
+S'4'
+sg4
+S'VERY NICE PHONE'
+p738
+sg6
+VIts a Really Nice phone...its just a PURE Phone....no comments...\u000abut a major problem...in this phone..that is HEATING PROBLEM\u000asome time its Very much heated...
+p739
+sg8
+Vpositive
+p740
+sg10
+g18
+sg12
+Vnegative
+p741
+ssI147
+(dp742
+g3
+S'5'
+sg4
+S'PRODUCT VERY GOOD'
+p743
+sg6
+Vproduct was very good, but delivery service not upto the mark. they cancelled order and giving false reason
+p744
+sg8
+Vnegative
+p745
+sg10
+g18
+sg12
+Vnegative
+p746
+ssI148
+(dp747
+g3
+S'2'
+sg4
+S'Moto 3rd Gen is Heating and Music Player is Strucking frequently'
+p748
+sg6
+V1) I have bought this ten days before,from second day onwards music player is suddenly strucking itself,this is really irritating me.For listening the songs i need switchoff the mobile and again switchon it,then it is working. \u000a2)very bad ear phones,my ears are paining if i put them continuously \u000a3) I'm facing Heating problem also
+p749
+sg8
+Vnegative
+p750
+sg10
+g85
+sg12
+Vnegative
+p751
+ssI149
+(dp752
+g3
+S'2'
+sg4
+S'Wifi Issues in Moto G'
+p753
+sg6
+VI have purchase this phone and when i receive the same after that i tried to connect in wifi its not working, After that i went to service center in Ahmedabad and they have tried to do the same finally they update software after that it was working in their office wifi. When i come back to my office again it wifi was not working and at the same time on other wifi it was working. In Apple wifi it is not working and in wifi tata docomo its not working and in balkin wifi device its working. I have asked other customers coming on motorola service center and major of them having same issue in moto G, and E. \u000aLooking for some solution for this problem other wise planning to return handset and buy some other good smartphone in same range.
+p754
+sg8
+Vnegative
+p755
+sg10
+g18
+sg12
+Vnegative
+p756
+ssI150
+(dp757
+g3
+S'3'
+sg4
+S'I have faced heating issue.'
+p758
+sg6
+Veverything has some good n bad points. on moto g3. after using of 25 days i am writing this,\u000aGood points\u000a-Rear cam is too good.\u000a-battery is good\u000a-sound quality is fine\u000a-handy to use \u000abad points\u000a-main thing if ur using this for a 20mins then it touches to 40C\u000a-front cam is not good in min day light \u000aover all its a good one except heating issue
+p759
+sg8
+Vnegative
+p760
+sg10
+g85
+sg12
+Vpositive
+p761
+ssI151
+(dp762
+g3
+S'1'
+sg4
+S'Defective product'
+p763
+sg6
+VThe item is totally defective . It doesn't work perfectly , Flipkart is a good site . We buy products often but this time the product is very displeasing. We are going to return it and we want assurance that the replaced product will be absolutely fine and perfect.We want a reply within 12 hours that you assure us that we will receive a fine and perfect item after we click the return button .
+p764
+sg8
+Vnegative
+p765
+sg10
+g18
+sg12
+Vpositive
+p766
+ssI152
+(dp767
+g3
+S'1'
+sg4
+S'Waste Of Time'
+p768
+sg6
+VAlthough configuration is good but purchase it only if you don't need front camera as front camera of this phone does not work. I have purchased and returned the product 2 times and got my refund. Planning to go for some other brand and Not MOTO.
+p769
+sg8
+Vnegative
+p770
+sg10
+g34
+sg12
+Vnegative
+p771
+ssI153
+(dp772
+g3
+S'3'
+sg4
+S'not worth to buy'
+p773
+sg6
+Vi bought this before 20-25 days. after few days i got problem in voice and heating problem.i had replace it but new phone also making same problem. \u000aother feature are good like camera,looking.\u000abut speaker quality is not good.
+p774
+sg8
+Vpositive
+p775
+sg10
+g85
+sg12
+Vnegative
+p776
+ssI154
+(dp777
+g3
+S'2'
+sg4
+S'heating issue with moto g3'
+p778
+sg6
+VI am using moto g3 for about 17 days and facing heating issue with my set.\u000awith normal use of 3g, gaming like lining jump rush,capturing video for abot 10 min its temp. gets upto 44 degree celsius.\u000aIf I use it with charging on then it excedes 45 degrees.\u000aI have requested flipkart for its replacement but they are saying if temp goes above 48 degrees then only replacement will be done.\u000aapart from it phone is workin fine but it is useless with so much heating.
+p779
+sg8
+Vnegative
+p780
+sg10
+g34
+sg12
+Vnegative
+p781
+ssI155
+(dp782
+g3
+S'2'
+sg4
+S'great phone but....'
+p783
+sg6
+Vmy moto g3's second sim slot has issues....it has no pins there..so second sim card not working..\u000abut overall its a great handset....
+p784
+sg8
+Vneutral
+p785
+sg10
+g85
+sg12
+Vpositive
+p786
+ssI156
+(dp787
+g3
+S'2'
+sg4
+S'heating issue.......'
+p788
+sg6
+VHello, \u000aProblem:\u000aThis phone has heating issue... even start internet browsing 10 to 15 min..... phone heating issue is started. \u000aBest point:\u000aCamera Quality is good.....
+p789
+sg8
+Vnegative
+p790
+sg10
+g85
+sg12
+Vpositive
+p791
+ssI157
+(dp792
+g3
+S'1'
+sg4
+S"THINK BEFORE U BUY.it's MOTOROLA."
+p793
+sg6
+VI had bought it because of the Motorola tag added with other features.\u000aNote that these are just a publicity gimmick!! \u000aI received a new set,which had been perfectly working for 8 days and then it all started.\u000aThe product starting lagging,Freezing without any warning.\u000aThe wifi was getting disconnected and product becoming too hot. \u000aI had returneed it and applied for replacement/refund.
+p794
+sg8
+Vnegative
+p795
+sg10
+g85
+sg12
+Vnegative
+p796
+ssI158
+(dp797
+g3
+S'4'
+sg4
+S'Good but miss some features of g2'
+p798
+sg6
+VGot the phone yesterday , liked it , the touch is smooth , The only thing i missed and did not like is the notification light , and the duel speakers , And the concept of twisting the phone and cam gets started and shaking the phone torch starts , does not work so good , you have to keep trying it , rest all are good as of now ....
+p799
+sg8
+Vnegative
+p800
+sg10
+g11
+sg12
+Vnegative
+p801
+ssI159
+(dp802
+g3
+S'5'
+sg4
+S'Again a big bang by motorola with moto G 3rd gen. :)'
+p803
+sg6
+Vsuprb device as i ever knew them for their quality.\u005c\u000anot doubt it is better then previous generation . that's a big thing and impressive to give regular upgrades . \u000aperformance not depend of high end specs as almost micromax , samsung user say always . \u000ait depends on build quality and thier manufacturing process.\u000aall moto devices are strong . \u000aa little thing i miss a led indicator n dual speakers. \u000adevices is awesome .\u000abuy with no doubt . \u000afeel the motorola power n quality .\u000ai use motorola since i buy my first cell moto yuva w270\u000an series continues razr v3, v3i , krazr , razr v8, droid razr xt912, xt910, droid razr m , razr hd maxx, droid ultra , \u000amoto g 1st , moto e2nd , moto 2 2nd, moto x 1st , 2nd, \u000anow to moto g 3rd gen .\u000afab moto .\u000athanks a lot to glevin brothers to gave a such a iconic motorola to world. \u000aHello Moto... :)
+p804
+sg8
+Vpositive
+p805
+sg10
+g11
+sg12
+Vpositive
+p806
+ssI160
+(dp807
+g3
+S'5'
+sg4
+S'Moto G3 - Value for Money'
+p808
+sg6
+VI am writing this review after using this phone for almost 20 days now and not found any cons of this phone. \u000aHighly impressed with the battery performance over the previous version of this phone (Moto G2). \u000aNice display, slim and easy to handle phone with a handful of extra features. \u000aOverall its a nice phone and gives great value for money.
+p809
+sg8
+Vpositive
+p810
+sg10
+g85
+sg12
+Vpositive
+p811
+ssI171
+(dp812
+g3
+S'3'
+sg4
+S'Sound &amp; Light Notifications, Ringtones stops working abruptly. Troubleshooting didnt help'
+p813
+sg6
+V1 day after the phone was delivered, Sound, light notification and ringtones stopped working abruptly. Its like when you get an incoming call, u will never know as there wont be any sounds or light notifications for you. \u000aI asked for a return and in turn some technician troubleshooted it through phone. Though it worked at that time, it is getting repeated again and again. I had requested for a return again and I hope Flipkart & Moto G will replace with a new mobile as promised. \u000aI didnt find any other defect, everything else were working fine.
+p814
+sg8
+Vnegative
+p815
+sg10
+g11
+sg12
+Vnegative
+p816
+ssI172
+(dp817
+g3
+S'4'
+sg4
+S'Awesome and Reliable: The Best That Can Be !'
+p818
+sg6
+VI have been using this phone for the past week and here is my honest review about this phone, hopefully this should help people in doubt: \u000aPros\u000a-------\u000a• Stock Android: The phone works as smooth as butter, one doesn’t really need a 3GB or 4GB RAM, when you have a 2GB RAM accompanied by a stock android. There is no lag while running multiple apps or migrating between them \u000a• Display & Touch: While the display is not full HD, the colours are vibrant and bright. Touch is quite responsive. \u000a• Form Factor: The form factor is better than Moto G 2nd Generation; the grip is better and the screen is slightly wider, enabling a better view. I specifically wanted a 5” phone for easy gripping and easy carriage in my pocket, and the MotoG 3rd Gen does that fine. \u000a• Heating Issue: None. I am not a high end gamer, and I have only tried out a few games. There are no heating issues \u000a• Battery: The 2450mAh battery is carrying me through the day with a mixed usage; again, I am not a heavy gamer, but the battery seems to be quite good. The stock android helps in this regard. \u000a• Camera: Front camera is excellent, back camera is excellent in well-lit areas \u000a• Call Quality: Signal reception is excellent, call quality is very good. \u000a• Accessories: You get an earphone, which is of good quality, but not in-the-ear earphones. But atleast you get one, unlike certain other phones at similar price points. You also get a USB charger which has two ports for simultaneously charging two phones \u000a• Reliabilty: You can expect certain reliability & quality with the brand of Motorola, and possibility of an Android M upgrade later. \u000aCons\u000a-------\u000a• Loudspeaker Sound: The music seems to crack at high volumes\u000a• Camera: The back camera is strictly decent in low light areas, not excellent\u000a• Screenguard: I would have welcomed a screenguard within the box; since this is a new phone, screenguards are not yet available locally.  \u000aBut hey, one cannot expect everything within a phone that is optimally priced. \u000aThe water proof IPX7 rating is welcome, but my required protection is limited to protection against occasional rain drops, and the phone can more than handle that aspect. \u000aMy suggestion to anyone looking for a phone under 15k and in dilemma, is to go ahead and buy this.
+p819
+sg8
+Vnegative
+p820
+sg10
+g18
+sg12
+Vpositive
+p821
+ssI173
+(dp822
+g3
+S'5'
+sg4
+S'Totally worth the Money'
+p823
+sg6
+VBeen using the phone for more than a week now. Thoroughly satisfied with the performance so far.  \u000aPros: \u000aFast processor\u000aGood camera\u000aGood Battery Life\u000aPure android experience and no bloatware\u000aExcellent Speaker\u000aWater resistant( Not tested this though) \u000aDual Sim slot \u000aCons: \u000aA bit on the heavier side. \u000aIt is totally worth the money that Motorola is offering it for. Beats any other android phone hands down. \u000aDont think twice before buying it. Go for it and you wont regret is.Much better than HTCs, Samsung and Iphones.
+p824
+sg8
+Vnegative
+p825
+sg10
+g85
+sg12
+Vpositive
+p826
+ssI174
+(dp827
+g3
+S'5'
+sg4
+S'#$# Awwsomme moto #$#'
+p828
+sg6
+VI love its premium look!!!\u000aHats up 2 flipkart 4 its superfast service \u000aAfter a long research I opted this one....& I'm happy that I bought it.\u000aVery satisfied with its performance...value for money..\u000aCharger has two outputs Which is really useful..\u000aIt has IPX7 rating which is water - resistant gr8 at this price\u000a UI is very responsive... \u000aguys go for it...it is the best affordable phone you can get at this range.\u000aDisplay 5/5\u000aProcessor 5/5\u000aHardware Build 5/5\u000aBattery 4/5\u000aBack camera 4/5\u000aFront Camera 4/5\u000aAccessories 4/5 (Earphone is n't that good) \u000aNext review will be after 1 month use...best phone at this price
+p829
+sg8
+Vnegative
+p830
+sg10
+g85
+sg12
+Vpositive
+p831
+ssI175
+(dp832
+g3
+S'5'
+sg4
+S'An iPhone for the masses (in India)'
+p833
+sg6
+VWell, people might not agree very often with statements like these, especially when you're comparing products across different price ranges, but honestly, this thing deserves all the praise it can get. It might not boast of high performance chipsets or a thin, beautifully chamfered aluminium body or be a Flagship Killer (I'm looking at you Oneplus), but god damn this phone is awesome.\u000a It pales in comparison to other flagships, or even other phones in the same price bracket, on paper but manages to hold its own in real-life owing to the (almost) bloatware-free and relatively fluid stock android. And that, in my view of course, is what makes it so much like an iPhone- not a lot of specs to show-off and a lot to offer in terms of experience. Besides that, the modest 720p resolution and the SD 410 mixed with 2500 mAh battery gave me a solid 6 hours on-screen time with really heavy usage. Now thats something to boast about (today, not 10 years ago)\u000aIt does have a few cringe-worthy things like the grainy zoomed in camera shots and oh so not perfect backplate waterproofing (I'm a bit skeptical here as the water tends to leak in, even when tightly secured). But again, the cons do not even come CLOSE to what this phone really represents- that Android can be just as good, if not better, even on a low-spec device. *pats Moto on the back*
+p834
+sg8
+Vnegative
+p835
+sg10
+g11
+sg12
+Vpositive
+p836
+ssI176
+(dp837
+g3
+S'5'
+sg4
+S"Motorola's best"
+p838
+sg6
+VDESIGN\u000aA water-resistant construction and deeper customization thanks to Moto Maker, this is undoubtedly the best designed Moto G to date in the series\u000aDISPLAY\u000aThe specs might be unchanged, but there are small improvements all around with the display. BETTER THAN XIAOMI.\u000aLOLLIPOP\u000aThe new Moto G offers a mostly stock Android 5.1.1 Lollipop experience.You can’t go wrong with a mostly stock Android Lollipop experience, with Motorola’s enhancement too.\u000aPROCESSOR\u000aIt’s one of the most responsive phones running this chipset. Probably helps that there’s stock Android too!\u000aCAMERA\u000aThe camera is delightful to use for most occasions, but don’t expect to do Like a DSLR.\u000aIt’s enjoyable for a mixture of things\u000aBATTERY\u000aOutstanding for its better-than-expected battery life, you won’t find yourself in a predicament too often.\u000aCONCLUSION\u000aPROS\u000a+ Can’t beat its Rs13000+10% SBI starting price\u000a+ IPX7 certification for water resistance\u000a+ Customizable design courtesy of Moto Maker\u000a+ Near stock Android experience\u000a+ Motorola software enhancements continue to be meaningful\u000a+ Outstanding battery life\u000a+ Good call quality\u000a+ Surprisingly snappy performance
+p839
+sg8
+Vnegative
+p840
+sg10
+g11
+sg12
+Vpositive
+p841
+ssI177
+(dp842
+g3
+S'5'
+sg4
+S'Extremely satisfied'
+p843
+sg6
+VPhone got delivered two days ahead of time, excellent clarity, all my friends envy my phone, great phone with awesome features for an affordable price
+p844
+sg8
+Vpositive
+p845
+sg10
+g18
+sg12
+Vpositive
+p846
+ssI178
+(dp847
+g3
+S'5'
+sg4
+S'Best stock android phone under 15K from motorola.'
+p848
+sg6
+VUsing this phone for 5 days now, and I would say this is surely a beast from Motorola. I was using LG Nexus 4 for 2 years and looking for another stock android phone. Moto G and MotoG2 both were looking good to me as I checked out of my friends. Hence I ordered Moto G3. A totally worth phone. \u000aAbout the features\u000a1. Build Quality: Motorola has produced a Gem this time. Back panel is rough surface and had good grip while holding. I disliked the curvy back panel, as the phone is not static on the desk. I am also considering to buy a color panel as it will give good look to phone. \u000aPhone's speaker is in the front panel, which is beneficial. I don't have to turn over my phone for listening music at full volume. \u000a2. Display: It is same resolution as nexus 4(1280*720) however screen size is more hence the 294ppi. There is some difference visible to me. But that doesn't matter for normal use. Screen is sharp and crisp. This one got Ambient Display feature producing quality display with handy features. \u000a3. Camera: Selfie camera produces quality images better then my old nexus 4 rear camera. Rear camera pictures have some darkishness that can be resolved by adjusting the exposure to correct points. Overall pictures are nicely produced. \u000aShutter speed is awesome and there is very little delay for snapping pics (even for HDR) \u000a4. Battery: Till now battery backup is good. Discharged in 29 hours when fully charged. This involves sleep time of 8 hours. (Motorola has software to reduce the battery usage during night sleep). Being a 2470mah battery, it is doing good.  \u000a5. Sound: Sound is very loud and clear although not as much pleasing. Headphones are provided with this phone which are ok to use.  \u000a6. Software: Motorola has provided some good software features in the phone. Moto display (handy notifications), moto assist etc. Being a stock android you get all the features of android plus regular updates from motorola. I checked Xiaomi, which has cut down many of the core android features reducing the usability of phone. \u000a7. Performance: 2GB RAM and Quad Core processor are working at its best. I use phone for moderate use (not much at games) and haven't seen any lag so far. I have also not observed phone heating till yet. \u000a8. Colorful back panels and flip covers are good options available for this phone.  \u000aOverall best phone under 13K from motorola. Go with it with blind eye.
+p849
+sg8
+Vnegative
+p850
+sg10
+g11
+sg12
+Vpositive
+p851
+ssI179
+(dp852
+g3
+S'5'
+sg4
+S'awesome Phone. Go for it'
+p853
+sg6
+VGot this phone yesterday. First of all hats off to Flipkart for awesome delivery time. \u000aNow coming to the phone:\u000a1. Build Quality: 5/5\u000a2. 2 GB of RAM with no bolt ware, and awesome RAM management: 5/5\u000a3. Screen size could have been bigger as we are getting 5.5 inch screen on Honor 4x: 4/5\u000a4. Resolution is perfect for the price range and PPI makes it much better. 5/5\u000a5. Battery life is too good.Even though it is having only 2470 mAH battery, with 30% charge, I downloaded about 30 apps on WIFI, used whatsapp on 4g and little bit of gaming, used torch and over all used phone for 4 hours but when got up in the morning battery was still at 10%: 5/5\u000a6. Camera quality is good and they gave Slow motion video feature as in Iphone that is more than awesomeeeeee: 5/5\u000a7. Headphones given are of average quality but at least they are giving it other wise Zenphone 2 and Honor 4x don't have headphones. 2/5\u000a8. Sound quality in music player is good, try with some sony Headphone: 5/5  \u000aFinally WATER RESISTANCE phone, I already gave it a dip in a bucket of water :D and guess what. It is working..!!!! Just remember to close the back lid as mentioned in the sticker. \u000aAnd in the end I would says, haters will keep hating it and give bad review. Don't listen to them. \u000aAbove review is after using for 10 hours. \u000aAdding Some more points after using for about more than 24 hours\u000a No Lags, can handle and switch between upto 12 apps without issues\u000a No heating Issue\u000a Battery Life is awesome (after a full charge and using for 5 hours with browsing on Wifi, downloading apps and few clicks with cam and 3 slow motion video and whatsapp, battery is still at 80%)\u000a Loved the on screen notification \u000aSo will recommend you to go for it. No need to give a second thought
+p854
+sg8
+Vnegative
+p855
+sg10
+g11
+sg12
+Vpositive
+p856
+ssI180
+(dp857
+g3
+S'4'
+sg4
+S'Stands First ....... Nice Make by motorola'
+p858
+sg6
+VNice Features in Economy Price...... Perfect Make from Motorola. \u000aPerformed FHD video test (Same video) motog3 with other devices like mi4, samsung galaxy s2, nexus5, apple 4s.... The winner is moto G3......  \u000a- Received Offer code from Flipkart for shopping on Myntra App. I.e.. 33% \u000acons:\u000a- Not received any sim card from Flipkart as mentioned in introductory offers.\u000a- No information disclosed by flipkart that when the money back offer/moto 360 offer will be announced. (These are also part of introductory Offers)
+p859
+sg8
+Vneutral
+p860
+sg10
+g11
+sg12
+Vpositive
+p861
+ssI181
+(dp862
+g3
+S'5'
+sg4
+S'My review based on first 4 days usage'
+p863
+sg6
+Vwaited for almost 8 months. Got the device as per my wish.\u000aA very good and compatible device. Such a great panel with silky touch screen.\u000aRAM is outstanding. Sound is good. No heating issues at all.... masterpiece from MOTO.\u000aMy suggestion is..... you can blindly go ahead with MOGO G3 compared to Xiaomi Mi4i, Lenovo note 3 / lenovo A7000 / Asus zenfone / samsung / sony........ \u000aOutstanding features and worth the money you spend.
+p864
+sg8
+Vpositive
+p865
+sg10
+g11
+sg12
+Vpositive
+p866
+ssI182
+(dp867
+g3
+S'5'
+sg4
+S'Awesome Product'
+p868
+sg6
+VPlus Points:\u000aGood Camera with Good Light.\u000aNo Lag, No hanging.\u000aLight Weight.\u000aSuperb Battery Backup.\u000aOn time Delivery \u000aNegative Points:\u000aMobile data shortcut should be there like Samsung, Sony, Micromax etc\u000aScreenshot is not easy like other mobiles\u000aNo Restart option \u000aStill happy to Rate 5 Star
+p869
+sg8
+Vpositive
+p870
+sg10
+g18
+sg12
+Vpositive
+p871
+ssI183
+(dp872
+g3
+S'5'
+sg4
+S'No words !'
+p873
+sg6
+V*Don't know why people rate it "one star". \u000a*For all those who feel slight "yellowish tint " in display : plz shut off Adaptive brightness and increase brightness.\u000a*For all those who face notification issue problm : plz learn to use latest stock andriod UI.\u000a*For all those complaining "explanation mark ! "issue : Its normal , dnt b overconscious.\u000a*For all those who compare this beast with others with higher specs : PLZ IF U WANT A FRYING PAN TO MAKE DISHES...Buy MI products and lenovo products.\u000a*For all those who dnt knw the background: plz look for MOTO G and its ratings(38k+) and 4.2/5.0 \u000a2nd day of use : \u000a1. 1GB of RAM always free: No hangs , no lags.\u000a2. Impressive Camera.\u000a3. Nice battery.\u000a4. Sturdy design.\u000a4. Nyc display.\u000a5. Nyc sound.\u000a6. long lasting phn with sturdy design and water proof. \u000aCons :\u000aExpectations.: LEADS TO MISERY.  \u000awill update soon. \u000aAug 15\u000aIndependence day .\u000aMy phone is STOLEN.\u000aIts the end og G3.
+p874
+sg8
+Vneutral
+p875
+sg10
+g85
+sg12
+Vpositive
+p876
+ssI184
+(dp877
+g3
+S'4'
+sg4
+S'MOTO G3'
+p878
+sg6
+VHi Flipsters, \u000aI got a new MotoG3 2 days ago and am happy with all the features that is available in the phone. \u000aHowever, i am unable to use the AppLock app in this phone and i did try installing it multiple times. The installation works fine, but when i lock different apps, they dont get locked, i am unable figure out the issue here. \u000aIf anyone else is facing this problem, please let me know the fix or if it cannot be fixed.
+p879
+sg8
+Vnegative
+p880
+sg10
+g18
+sg12
+Vnegative
+p881
+ssI185
+(dp882
+g3
+S'4'
+sg4
+S'Nice one'
+p883
+sg6
+VI received this on Friday & so far, I love that fact that I have switched from an iPhone to &roid & I sure agree that &roid has come a long way in the 4 or 5 years that I was off it\u000aUnboxing: The phone comes in a nice small box & neatly packed with a charger, earphones, manual & of course the phone itself. The charger comes with 2 USB ports instead of one, good thought Motorola\u000aBuild Quality: It looks surprisingly elegant & definitely better looking compared to its predecessors. I love the new patterned look on the back cover & the new camera housing design. \u000aThe phone feels sturdy enough however not as much as a the iPhone, I have dropped my iPhone 4S multiple times in the last few years & it has survived each time to tell the story, not sure if I can say the same for this one, only time will tell. \u000aI wish I could say the same about the earphones, they are flimsy & have a poor sound quality. They are disappointing & they might as well have not included it \u000aTurning it on: Love the screen & how clear everything looks, the first thing that hit me was how convenient it was to setup whilst switching from an iPhone & then it leaves you with a very classy looking purple wallpaper compared to strange cartoon(ish) colors of its predecessor \u000aThis phone is definitely fast, everything seems to open up at atleast twice the speed (maybe because I was using an iPhone 4S) \u000aWhat I liked: \u000aThe phone is built perfectly to be operated with just one h&, most of the time\u000aThe "OK Google" option from any screen on the phone when active, I wish they had added the Moto X style “always listening”\u000a* "Chop Chop" to on the flashlight\u000a* Twist twice to activate the camera\u000a* The phone displays the time & shows notification previews without having to touch any button when picked up after placing it down \u000a* The battery worked an entire day from 9 am until about 11:30 pm when it switched to batter saver mode (not drained out) with a pretty high usage of WiFi, BT with about 5 hours of screen time \u000a* The camera is good & I like the fact that I can use the volume key as the camera button & clicks a pretty good picture as well\u000aThe Not so good bits\u000a* No manual focus option in the camera, not sure if it exists but I couldn’t find one\u000a* Airtel website says that the phone isn't compatible to 4G!! 21 helpline did confirm that the phone is compatible, phew!! Not sure why the website said that. I will post an update once I get the 4G sim card\u000a* The phone did show some signs of lag when I was downloading songs, installing apps, using Open Mic+ & Push Bullet simultaneously while playing working on office emails & social media with a low battery , so I guess I was asking for it \u000a* Moto Assist feature is missing the Driving mode, it would've been good to have\u000aMost of these issues is something that I was really looking for than real big problems except the camera bit. I definitely recommend this as a good buy for the price paid for it
+p884
+sg8
+Vnegative
+p885
+sg10
+g11
+sg12
+Vpositive
+p886
+ssI186
+(dp887
+g3
+S'4'
+sg4
+S'Worth buying!'
+p888
+sg6
+VUsing Moto G 3rd Gen for a day now, and pretty much satisfied to say the least. Sturdy and a decent handset with great display screen (compared to Xperia ZR I have been using previously). While haven't fully explored, will list down some the pros and cons I came across as of now: \u000aWhat I liked: \u000a1. Good built; especially the back cover providing a firm grip.\u000a2. Camera - 13MP rear and 5MP front; couldn't ask for better at this price.\u000a3. 2 GB RAM\u000a4. Very very loud and distinct audio and speaker quality while answering calls. \u000aWhat I didn't: \u000a1. No LED notification; Instead there is Moto Display, which will take a while for me to get used to.\u000a2. No NFC - but that doesn't really bother me.\u000a3. No independent device calendar. Everything is synced to Google Calendar, which is a put off for me.\u000a4. The Office mail has now moved to Google by default, which is the major dampner for me. I dislike my office mails being mixed with Gmail; preferred them to be separate :( \u000aNevertheless, a compact budget phone one should definitely go for.
+p889
+sg8
+Vnegative
+p890
+sg10
+g34
+sg12
+Vpositive
+p891
+ssI187
+(dp892
+g3
+S'5'
+sg4
+S'Almost Awsm !!'
+p893
+sg6
+VPros :\u000a1. Nice screen with Gorilla glass, not FHD like K3 Note but its good. No glare wide viewing angle, no pixelation. Pulse width modulation is good so it doesn't hurt eyes.\u000a2. 2 GB RAM. A must requirement for Lollipop.\u000a3. 16 GB memory with extended card support. No worries for torrent downloaded Brrip mobies ;)\u000a4. Water resistant : wow...its like your rainy day check :P\u000a5. Camera : at last Motorola upgraded there camera. Now with 13 MP 2.0 aperature and dual tone flash pics are superb. However in low light condition its ok. For selfie lovers front 5 MP cam is too good. \u000aCons :\u000aScreen to body ratio. The phone could have been some smaller given its screen size 5'.\u000aThe only awkward thing I felt. \u000aOverall its a good phone, especially for careless people (Gorilla glass + water resistant) like my girlfriend :P
+p894
+sg8
+Vnegative
+p895
+sg10
+g11
+sg12
+Vpositive
+p896
+ssI188
+(dp897
+g3
+S'4'
+sg4
+S'An honest review about MOTO G3'
+p898
+sg6
+VFirst of all, thank you MOTO for this phone. This phone is completly free from BLOTware, not even the file manager is installed. So you have freedom to choose the apps you want. Its like a canvas, and you have to choose your own colours to paint. \u000aThe processor works fine. I used around 25-30 apps at one go and the phone still worked smooth. The touch is supersensitive. I am sure you guys would love it.\u000aThe camera is average, it does its job but dont expect it to be as good as Mi4i camera. Mi4i is only good in terms of camera but it heated a lot. Moto G3 on other hand has no heating issue. I checked the temperature, even after heavy usage it was 39 degrees which is good. You may use the code *#*#4636#*#* to check the functionality of phone and battery performance. \u000aIt is water resistant, i verified it. Dropped it in bucket, still it was working completely fine, however you need to ensure that the back panel is properly locked as per the instructions. Also, the voice quality over the call is crystal clear and the volume output of songs is fantabulous. I really loved this phone. Internal storage is around 11-12GB. \u000aI would have rated it 5 if the front cam would have been better.
+p899
+sg8
+Vnegative
+p900
+sg10
+g11
+sg12
+Vpositive
+p901
+ssI189
+(dp902
+g3
+S'1'
+sg4
+S'moto g3'
+p903
+sg6
+Vthey sent dead phone
+p904
+sg8
+Vnegative
+p905
+sg10
+g85
+sg12
+Vnegative
+p906
+ssI190
+(dp907
+g3
+S'1'
+sg4
+S"Honest Review...Please don't buy any Moto product"
+p908
+sg6
+VI have purchased Moto G 3 before 3 months and within 3 months it is giving charging and device heat issue. And worst and very rude service by moto service centers and customer care. I am facing big problem but they don't bother. Cheater customer service by moto. Very worst experience by Moto G 3. Please go for any another phone.
+p909
+sg8
+Vnegative
+p910
+sg10
+g85
+sg12
+Vnegative
+p911
+ssI191
+(dp912
+g3
+S'1'
+sg4
+S'Please dont buy this'
+p913
+sg6
+VIf you want to stay peaceful in terms of service do not buy this mobile phone.I was hurrying to office one day by mistake it fell from one feet and display is broken like hell.My phone is not usable and I kept it at home as I felt glass pieces would come off. I visited service center 2 weeks back, which looks like crap and that service center guy feels as if he is god and does not even respond properly to Customer issues.Apparently for MOTO G 3RD GEN he does not have spare parts.If you want to stay peaceful with your mobile buy earlier version as they can repair it.I had very good picture about GOOGLE products, that is why I bought this mobile in the first place.Now I think I have made a big mistake.
+p914
+sg8
+Vnegative
+p915
+sg10
+g11
+sg12
+Vnegative
+p916
+ssI192
+(dp917
+g3
+S'4'
+sg4
+S'Satisfactory.!'
+p918
+sg6
+VFirst of all I would like to thank Motorola and Flipkart's services for resolving my issue promptly after complaining for the long delivery period stated initially, and being a legacy customer, provided me the Phone(2GB variant) in a less than a week(although it is out of stock).\u000aNext, I am satisfied with the phone pretty much.\u000aOnly thing that lacks is an amoled display(specially due to no notification LED). As the IPS display lights up completely(although still black) when notification arrives. You will be able to tell the difference.\u000aA better screen and it would have been no match to any phone in this range and beyond.\u000aBut I assume it also would have meant less number of takers for the Moto X.\u000aBrilliant ergonomics brings a joy to hold the phone in hand.!\u000aOnce a Moto, always a Moto.!\u000aThanks again.
+p919
+sg8
+Vnegative
+p920
+sg10
+g11
+sg12
+Vpositive
+p921
+ssI193
+(dp922
+g3
+S'1'
+sg4
+S'Motorola Rocks but Flipkart sucks'
+p923
+sg6
+VI have ordered two MotoG3 phone during the first sale but didn't get it due uncooperative logistics department of flipkart has messed it up. Order id of phone is OD003591050636960300 is cancelled for no reason and received a defective phone for order id OD103582510109216800 which is not been replaced yet. Flipkart sincerely if you cant fulfill the promises made to customer kindly stop doing exclusive launches.Still didnt got the a call from the grievance department.Hope Motorola will choose another ecommerce site for next launches.
+p924
+sg8
+Vnegative
+p925
+sg10
+g18
+sg12
+Vnegative
+p926
+ssI194
+(dp927
+g3
+S'1'
+sg4
+S'Moto G 3rd gen is best but Flipkart services is poorer day by day...Got internally Damaged moto g3'
+p928
+sg6
+VMoto is a very big brand so there is no issue with mobile but after receiving moto g 3rd i have quite internal problem with speakers & mic.Also Facing problem with too heated during charging. My charger sometimes disconnected automatically.\u000a i applied to replace it from flipkart. But response from flipkart is not satistfy they to me. They tell go to store and verified from there so what the meaning of 30 days replacement policy ?? I had very poor experience with flipkart services. I have always regret why i buyed motog 3rd from flipkart. I bought this phone on 31/7/15 and i compalin two times on mail and the same two time at call but they are not listening.\u000a what is the meaning of buying online product when they are not ready to replace it ? why should i go at store ? i buyed from online now they have a responsibilities to replace it. the product we get ed from this online store we use lifetime so they have to understand replace it as soon as possible.\u000aThe day by day services from flipkart is poorer.\u000amy return order ID OD203499696510750600 Pls replace it as soon as possible Flipkart Team.
+p929
+sg8
+Vnegative
+p930
+sg10
+g11
+sg12
+Vnegative
+p931
+ssI195
+(dp932
+g3
+S'1'
+sg4
+S'The rating is for flipkart service'
+p933
+sg6
+Vi received the product and received a dead charger . With in 1 hr of delivery, i have submitted a return request. Next day got a call from customer support asking why i request a return. Explained and here is what the support executive replied.  \u000a1. We will provide a 500/- voucher, so you can purchase any charger from flipkart. \u000a2. you may go to service centre and get a replacement charger as it is covered under 6 months warranty. \u000a3. We will replace the charger, but it wont be a new one as motorola wont sell charger alone. \u000awhy the heck i should buy a cheap third party charger or fight with a service centre to get a new charger. how can flipkart tell me they can only send me a used one? The executive was rude and lack customer support experience and was shouting at myself. Finally i made it clear that i wont accept nothing other than a full box replacement, they agreed to replace. Very pathetic.
+p934
+sg8
+Vnegative
+p935
+sg10
+g11
+sg12
+Vnegative
+p936
+ssI196
+(dp937
+g3
+S'1'
+sg4
+S'Bad Experience with Flipkart return/replace policy'
+p938
+sg6
+VI have buy moto g3 on4 aug 2015. \u000aAs i start using it found thatthe phone's head speaker are not working properl.I realize that there is lots of disturbance while talking on the phone.\u000aI apply for the replacement of the product and i got call from flipkart .\u000aThey reject my request for replacement on the basis of some foolish online check by smart check application that voice coming from head speakers( I mentioned many times that voice is coming but not clear) . \u000aSo please, Don't believe on flipkart return policy and think twice before buying from flipkart. \u000aMany thanks to Flipkart.
+p939
+sg8
+Vnegative
+p940
+sg10
+g34
+sg12
+Vnegative
+p941
+ssI197
+(dp942
+g3
+S'1'
+sg4
+S'Flipkart cheated with launch day offers'
+p943
+sg6
+VI was eagerly waiting for Moto G3 and I booked immediately it showed on Flipkart.\u000aWhen I placed by order, it was showing only 1 OFFER as applied (which is airtel free sim).\u000aThe website had advertised that there are 6 offers including a chance for money back.\u000aI thought these are implied even though they don't show up on my order. I didn't want it to go out of stock.\u000aBut after an hour the website started showing all 6 offers against the product. I immediately contacted customer care knowing that I had placed order even before they made the offers active.\u000aBut it has been 2 weeks and so far I have got 4 replies from Flipkart telling what the launch day offers are instead of updating my order. I'm tired of this. Only now I'm realizing how bad their customer care is cs@flipkart.com. Is there any other channel where we can raise this issue?
+p944
+sg8
+Vnegative
+p945
+sg10
+g11
+sg12
+Vnegative
+p946
+ssI198
+(dp947
+g3
+S'1'
+sg4
+S'Product is awesome but Flipkart is Cheating Customers'
+p948
+sg6
+VI had purchased this product with launch offers. It got delivered yesterday i.e.3rd August but I didn't get any offer. On calling Flipkart customer care I was told that offers should have been redeemed by 2nd August 2015.I said this was no where mentioned.\u000aI asked the representative that when I got the phone yesterday only then how can I redeemed the offer on 2nd August??? I was told that I should have checked with customer care.
+p949
+sg8
+Vnegative
+p950
+sg10
+g85
+sg12
+Vpositive
+p951
+ssI199
+(dp952
+g3
+S'1'
+sg4
+S'Heating issue'
+p953
+sg6
+VI have placed the order on 29th July 15, received the mobile in 2 days and as soon as I switched on the mobile it was little bit heat, thought that would be for a while, but it was heating all the tym. Requested for replacement but CS team called me and asked me to perform troubleshooting steps..I have performed all steps but the temp is still 43.8 degrees. We cant carry a mobile which is heat all the tym. My hands become warm when I carry mobile. You can check the temp by *#4636#*#*. Again I placed a request for replacemnet, they are not replacing it. Overall not satisfied with Flipkart. I will write review again with the resolution I get after this request.
+p954
+sg8
+Vneutral
+p955
+sg10
+g11
+sg12
+Vnegative
+p956
+ssI200
+(dp957
+g3
+S'2'
+sg4
+S'Good Phone with Worst Battery Life &amp; fake offer products from flipkart'
+p958
+sg6
+VThis is my second motorola phone purchased from Flipkart. \u000aI bought moto g last year when motorola phones were launched in India.\u000aI am still using the same moto g with no problems. \u000aI bought moto g3 on the 1st day of its launch, seen little lag on some apps, has issues when turning on/off 3g data, it does not respond even after toggling the switch many times.\u000aGmail app is very slow with much lag. \u000aComing to battery life, the battery spec on paper is good, but in real time the battery sucks, battery on 3 g last hardly for 4 hrs. My old moto g is far far better till date even after 1 year usage it last a full day charge on 3g. \u000aComing to Flipkart offers, I got a Airtel 4G sim card along with phone which is a fake sim card, it has only 19 digits on the sim, which is pure crap good for nothing. \u000aFlipkart claims that its Airtel responsibility. \u000aOverall not satisfied with this purchase. \u000aWill return this Moto g3, but Flipkart is not responding on my return or replacement,
+p959
+sg8
+Vnegative
+p960
+sg10
+g18
+sg12
+Vnegative
+p961
+ss.

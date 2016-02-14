@@ -48,7 +48,7 @@ total = 1
 count = 0
 pp = pprint.PrettyPrinter(indent=4)
 
-while(count < 50):
+while(count < 200):
 	page = "http://www.flipkart.com/moto-g-3rd-generation/product-reviews/ITME9YSJR7MFRY3N?pid=MOBE6KK93JG5WKB2&rating=1,2,3,4,5&reviewers=all&type=all&sort=most_helpful&start=" + str(count)
 	reviews, total = getReviews(page, count)
 
