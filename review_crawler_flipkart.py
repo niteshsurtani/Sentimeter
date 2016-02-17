@@ -43,19 +43,20 @@ def getReviews(page, count):
 	return reviews, total
 
 
-all_reviews = {}
-total = 1
-count = 0
-pp = pprint.PrettyPrinter(indent=4)
+def extractReviews():
+	all_reviews = {}
+	total = 1
+	count = 0
+	pp = pprint.PrettyPrinter(indent=4)
 
-while(count < 200):
-	page = "http://www.flipkart.com/moto-g-3rd-generation/product-reviews/ITME9YSJR7MFRY3N?pid=MOBE6KK93JG5WKB2&rating=1,2,3,4,5&reviewers=all&type=all&sort=most_helpful&start=" + str(count)
-	reviews, total = getReviews(page, count)
+	while(count < 200):
+		page = "http://www.flipkart.com/moto-g-3rd-generation/product-reviews/ITME9YSJR7MFRY3N?pid=MOBE6KK93JG5WKB2&rating=1,2,3,4,5&reviewers=all&type=all&sort=most_helpful&start=" + str(count)
+		reviews, total = getReviews(page, count)
 
-	for k,d in reviews.iteritems():
-		all_reviews[k] = d
-	count = count + 10
+		for k,d in reviews.iteritems():
+			all_reviews[k] = d
+		count = count + 10
 
 
-with open('reviews.txt', 'wb') as dict_items_save:
-	pickle.dump(all_reviews, dict_items_save)
+	with open('storage.tmp/reviews.txt', 'wb') as dict_items_save:
+		pickle.dump(all_reviews, dict_items_save)

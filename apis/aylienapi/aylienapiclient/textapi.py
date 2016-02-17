@@ -15,11 +15,11 @@
 import re
 import sys
 import json
-import aylienapiclient
-from aylienapiclient.http import Request
-from aylienapiclient.errors import HttpError
-from aylienapiclient.errors import MissingParameterError
-from aylienapiclient.errors import MissingCredentialsError
+import apis.aylienapi.aylienapiclient
+from apis.aylienapi.aylienapiclient.http import Request
+from apis.aylienapi.aylienapiclient.errors import HttpError
+from apis.aylienapi.aylienapiclient.errors import MissingParameterError
+from apis.aylienapi.aylienapiclient.errors import MissingCredentialsError
 
 if sys.version_info >= (3, 0):
   basestring = str

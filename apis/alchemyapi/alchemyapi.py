@@ -34,6 +34,8 @@ except ImportError:
     import simplejson as json
 
 
+api_file = '/home/nitesh/Projects/Sentimeter/apis/alchemyapi/api_key.txt'
+
 if __name__ == '__main__':
     """
     Writes the API key to api_key.txt file. It will create the file if it doesn't exist.
@@ -51,7 +53,7 @@ if __name__ == '__main__':
     if len(sys.argv) == 2 and sys.argv[1]:
         if len(sys.argv[1]) == 40:
             # write the key to the file
-            f = open('api_key.txt', 'w')
+            f = open(api_file, 'w')
             f.write(sys.argv[1])
             f.close()
             print('Key: ' + sys.argv[1] + ' was written to api_key.txt')
@@ -145,7 +147,7 @@ class AlchemyAPI:
         import sys
         try:
             # Open the key file and read the key
-            f = open("api_key.txt", "r")
+            f = open(api_file, "r")
             key = f.read().strip()
 
             if key == '':
@@ -174,7 +176,7 @@ class AlchemyAPI:
                 'If you do not have an API Key from AlchemyAPI, please register for one at: http://www.alchemyapi.com/api/register.html')
 
             # create a blank key file
-            open('api_key.txt', 'a').close()
+            open(api_file, 'a').close()
             sys.exit(0)
         except Exception as e:
             print(e)
