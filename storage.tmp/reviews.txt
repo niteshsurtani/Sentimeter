@@ -315,32 +315,32 @@ p97
 ssI32
 (dp98
 g3
-S'1'
+S'4'
 sg4
-Vi have given return request but you people not responded this mobile is not good even camara is not good, even flip kart response towards customer very bad........
+VMoto G3 is a very good mobile in its price range. Absolutely no issues in that. Though, the screen boasts of Gorilla Glass, it is very sensitive and easily breaks if it falls from a height of just 1-2 feet. My phone accidentally slipped, and the glass broke. Replacement cost is MORE than Rs. 6000. Other options of going for duplicate screen replacement at local shops is not available for this MOTO G. It is hard to find Moto G service centres near by, and even if you find one, they will keep the mobile with them for very very long time, and you would just have to ask them again and again, which could be a frustrating experience. \u000aSo, BUY A BACK CASE!! You never know when your phone may slip.
 p99
 sg6
-S'Return request'
+S'Buy the Back Case First!'
 p100
 ssI33
 (dp101
 g3
 S'1'
 sg4
-VI am not satisfied with Moto G(3rd Generation), after purchase this cellphone facing so much Problem, hanging problem , Battery Discharge with in 15-20 Minute & biggest Problem in this phone its heat too much that i can't touch.\u000a So Can't use this phone, I request you please refund my amount As Soon As Possible.
+Vi have given return request but you people not responded this mobile is not good even camara is not good, even flip kart response towards customer very bad........
 p102
 sg6
-S'Refund My Amount'
+S'Return request'
 p103
 ssI34
 (dp104
 g3
-S'4'
+S'1'
 sg4
-VMoto G3 is a very good mobile in its price range. Absolutely no issues in that. Though, the screen boasts of Gorilla Glass, it is very sensitive and easily breaks if it falls from a height of just 1-2 feet. My phone accidentally slipped, and the glass broke. Replacement cost is MORE than Rs. 6000. Other options of going for duplicate screen replacement at local shops is not available for this MOTO G. It is hard to find Moto G service centres near by, and even if you find one, they will keep the mobile with them for very very long time, and you would just have to ask them again and again, which could be a frustrating experience. \u000aSo, BUY A BACK CASE!! You never know when your phone may slip.
+VI am not satisfied with Moto G(3rd Generation), after purchase this cellphone facing so much Problem, hanging problem , Battery Discharge with in 15-20 Minute & biggest Problem in this phone its heat too much that i can't touch.\u000a So Can't use this phone, I request you please refund my amount As Soon As Possible.
 p105
 sg6
-S'Buy the Back Case First!'
+S'Refund My Amount'
 p106
 ssI35
 (dp107

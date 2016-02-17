@@ -644,7 +644,7 @@ class Client(object):
         'Content-type': 'application/x-www-form-urlencoded',
         'X-AYLIEN-TextAPI-Application-ID': self.applicationId,
         'X-AYLIEN-TextAPI-Application-Key': self.applicationKey,
-        'User-Agent': "Aylien Text API Python " + aylienapiclient.__version__
+        # 'User-Agent': "Aylien Text API Python " + aylienapiclient.__version__
         }
     request = Request(endpoint, params, headers, self.useHttps)
 
